@@ -1,0 +1,609 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261034,
+                "organization": "Harvard Business School",
+                "accreditation": {
+                    "education": "MBA",
+                    "educationLevel": "masters",
+                    "inputStr": "MBA",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261035,
+                "organization": "University of California",
+                "accreditation": {
+                    "education": "Bachelor of Science",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": {
+                    "formatted": "Berkeley, CA, USA",
+                    "streetNumber": null,
+                    "street": null,
+                    "apartmentNumber": null,
+                    "city": "Berkeley",
+                    "postalCode": null,
+                    "state": "California",
+                    "stateCode": "CA",
+                    "country": "United States",
+                    "rawInput": "Berkeley",
+                    "countryCode": "US",
+                    "latitude": 37.8715226,
+                    "longitude": -122.273042,
+                    "poBox": null
+                },
+                "dates": null
+            }
+        ],
+        "emails": [
+            "johndoe@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "John Doe",
+            "last": "Doe",
+            "first": "John",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+12345678901"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+12345678901",
+                "formattedNumber": "+1 234-567-8901",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(234) 567-8901"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "John Doe Chief Financial Officer (CFO) \n\nEmail: johndoe@email.com Phone: +1-234-567-8901 LinkedIn: linkedin.com/in/johndoe ",
+                "bbox": [
+                    32.102,
+                    35.83203,
+                    420.60397,
+                    190.36798
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary \nSeasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth. ",
+                "bbox": [
+                    31.622,
+                    234.83203,
+                    563.618,
+                    332.21802
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience \nChief Financial Officer | XYZ Tech Solutions | 2018 - Present \n- Spearheaded fundraising efforts, securing $50M in venture capital funding. \n- Optimized financial structures, reducing operational costs by 30%. \n- Led M&A initiatives, successfully acquiring and integrating 3 companies. \nVP of Finance | ABC Corp | 2012 - 2018 \n- Managed budgets exceeding $500M, ensuring fiscal responsibility. \n- Implemented ERP solutions, improving financial reporting accuracy by 40%. ",
+                "bbox": [
+                    31.414001,
+                    362.56003,
+                    406.20197,
+                    542.879
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills \nFinancial Strategy & Planning, Risk Management, Mergers & Acquisitions, Venture Capital & Fundraising, Budgeting & Forecasting ",
+                "bbox": [
+                    31.736,
+                    563.65204,
+                    563.83887,
+                    632.688
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education \nMBA in Finance, Harvard Business School B.S. in Accounting, University of California, Berkeley ",
+                "bbox": [
+                    32.066,
+                    663.03,
+                    309.158,
+                    731.898
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028522622,
+                "emsiId": "KS123MC78KV644P5DDZ0",
+                "name": "Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": null,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "Summary",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028522624,
+                "emsiId": "KS120HK5XY6JV257QLTX",
+                "name": "Budgeting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": [
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028522625,
+                "emsiId": "ESEB1D4619E6E83A061D",
+                "name": "Planning",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": [
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028522619,
+                "emsiId": "KS1264K6T7LNRXHBN8JQ",
+                "name": "MFG/Pro (ERP)",
+                "lastUsed": "2018-01-01",
+                "numberOfMonths": 144,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": 3,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "WorkExperience",
+                        "position": 1,
+                        "workExperienceId": 180437276
+                    }
+                ]
+            },
+            {
+                "id": 1028522140,
+                "emsiId": "KS121CX6YBTQW93HCZQM",
+                "name": "Venture Capital",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522142,
+                "emsiId": "KS120HK5XY6JV257QLTX",
+                "name": "Budgeting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522143,
+                "emsiId": "KS1241P6PXRCKTDSWHTV",
+                "name": "Forecasting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522144,
+                "emsiId": "KS1218R61L2LHV8J334J",
+                "name": "Corporate Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522146,
+                "emsiId": "ESEB1D4619E6E83A061D",
+                "name": "Planning",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522147,
+                "emsiId": "KS1284M622VT3F77037Q",
+                "name": "Project Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522148,
+                "emsiId": "KS1205767R47RZSQ9RHY",
+                "name": "Mergers And Acquisitions",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522149,
+                "emsiId": "KS128CH796DYDTGSFMWV",
+                "name": "Resource Acquisition",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522150,
+                "emsiId": "KS123MC78KV644P5DDZ0",
+                "name": "Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522151,
+                "emsiId": "KS123MC78KV644P5DDZ0",
+                "name": "Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522153,
+                "emsiId": "KS1284M622VT3F77037Q",
+                "name": "Project Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522155,
+                "emsiId": "KS123KR6W35X39JP65MX",
+                "name": "Entrepreneurship",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522156,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522158,
+                "emsiId": "KS121CX6YBTQW93HCZQM",
+                "name": "Venture Capital",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522160,
+                "emsiId": "KS1205767R47RZSQ9RHY",
+                "name": "Mergers And Acquisitions",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522161,
+                "emsiId": "KS123MC78KV644P5DDZ0",
+                "name": "Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522162,
+                "emsiId": "ES8E23AC75A1D838B872",
+                "name": "Fiscal Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522164,
+                "emsiId": "KS123YJ6KVWC91BTMB4R",
+                "name": "Financial Statements",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522166,
+                "emsiId": "KS123MC78KV644P5DDZ0",
+                "name": "Finance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522167,
+                "emsiId": "KS1203W702ND09XHKJR5",
+                "name": "Accounting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603790,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603791,
+                "emsiId": "KS1241P6PXRCKTDSWHTV",
+                "name": "Forecasting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603793,
+                "emsiId": "KS121CX6YBTQW93HCZQM",
+                "name": "Venture Capital",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 174,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603794,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522629,
+                "emsiId": "KS122CL64848WM1MVNSQ",
+                "name": "Fundraising",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 174,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": 2,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "WorkExperience",
+                        "position": 0,
+                        "workExperienceId": 180437275
+                    }
+                ]
+            },
+            {
+                "id": 1028522141,
+                "emsiId": "KS122CL64848WM1MVNSQ",
+                "name": "Fundraising",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522145,
+                "emsiId": "ES9E070CF7DFD323E9D9",
+                "name": "Financial Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522152,
+                "emsiId": "ES9E070CF7DFD323E9D9",
+                "name": "Financial Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522154,
+                "emsiId": "KS4ZBSJ7KBTGBR13J4JF",
+                "name": "Raising Capital",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522157,
+                "emsiId": "KS122CL64848WM1MVNSQ",
+                "name": "Fundraising",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522159,
+                "emsiId": "KS123Y170JP7JBSFVBSS",
+                "name": "Financial Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522163,
+                "emsiId": "KS123KH77136Y0FWRNJY",
+                "name": "Enterprise Resource Planning",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522165,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028603789,
+                "emsiId": "ES9E070CF7DFD323E9D9",
+                "name": "Financial Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603792,
+                "emsiId": "KS125ZB6BWF5RY40BH1B",
+                "name": "Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Seasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth.",
+        "websites": [
+            "linkedin.com/in/johndoe"
+        ],
+        "linkedin": "linkedin.com/in/johndoe",
+        "totalYearsExperience": 13,
+        "profession": "Chief Financial Officer",
+        "workExperience": [
+            {
+                "id": 180437275,
+                "jobTitle": "Chief Financial Officer",
+                "organization": "XYZ Tech Solutions",
+                "location": null,
+                "dates": {
+                    "startDate": "2018-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 87,
+                    "isCurrent": true,
+                    "rawText": "2018 - Present"
+                },
+                "jobDescription": "\u2022 Spearheaded fundraising efforts, securing $50M in venture capital funding. \n\u2022 Optimized financial structures, reducing operational costs by 30%. \n\u2022 Led M&A initiatives, successfully acquiring and integrating 3 companies. ",
+                "occupation": {
+                    "jobTitle": "Chief Financial Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180437276,
+                "jobTitle": "VP of Finance",
+                "organization": "ABC Corp",
+                "location": null,
+                "dates": {
+                    "startDate": "2012-01-01",
+                    "endDate": "2018-01-01",
+                    "monthsInPosition": 72,
+                    "isCurrent": false,
+                    "rawText": "2012 - 2018"
+                },
+                "jobDescription": "\u2022 Managed budgets exceeding $500M, ensuring fiscal responsibility. \n\u2022 Implemented ERP solutions, improving financial reporting accuracy by 40%. ",
+                "occupation": {
+                    "jobTitle": "VP of Finance",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "John Doe Chief Financial Officer (CFO) \n\nEmail: johndoe@email.com Phone: +1-234-567-8901 LinkedIn: linkedin.com/in/johndoe \nSummary \nSeasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth. \nWork Experience \nChief Financial Officer | XYZ Tech Solutions | 2018 - Present \n- Spearheaded fundraising efforts, securing $50M in venture capital funding. \n- Optimized financial structures, reducing operational costs by 30%. \n- Led M&A initiatives, successfully acquiring and integrating 3 companies. \nVP of Finance | ABC Corp | 2012 - 2018 \n- Managed budgets exceeding $500M, ensuring fiscal responsibility. \n- Implemented ERP solutions, improving financial reporting accuracy by 40%. \nSkills \nFinancial Strategy & Planning, Risk Management, Mergers & Acquisitions, Venture Capital & Fundraising, Budgeting & Forecasting \nEducation \nMBA in Finance, Harvard Business School B.S. in Accounting, University of California, Berkeley ",
+        "redactedText": "**** *** Chief Financial Officer (CFO) Email: ***************** Phone: *************** LinkedIn: ***********************\nSummary Seasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth.\nWork Experience Chief Financial Officer | XYZ Tech Solutions | **** * Present - Spearheaded fundraising efforts, securing $50M in venture capital funding. - Optimized financial structures, reducing operational costs by 30%. - Led *&A initiatives, successfully acquiring and integrating 3 companies. VP of Finance | ABC Corp | 2012 - 2018 - Managed budgets exceeding $500M, ensuring fiscal responsibility. - Implemented ERP solutions, improving financial reporting accuracy by 40%.\nSkills Financial Strategy & Planning, Risk Management, Mergers & Acquisitions, Venture Capital & Fundraising, Budgeting & Forecasting\nEducation MBA in Finance, Harvard Business School B.S. in Accounting, University of California, Berkeley"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "Steady upward progression from VP of Finance at ABC Corp (2012-2018) to Chief Financial Officer at XYZ Tech Solutions (2018-Present), demonstrating leadership growth and increased responsibility in financial strategy and operations.",
+        "Company Type & Sector": "XYZ Tech Solutions likely operates in the technology sector, possibly a startup or growth-stage company given the focus on venture capital fundraising and M&A. ABC Corp, with its large budgets and ERP implementations, suggests a larger, possibly established corporation in finance or related sectors.",
+        "Education Quality & Ranking": "Top-tier education with an MBA from Harvard Business School and a B.S. in Accounting from the University of California, Berkeley, both highly ranked institutions known for their rigorous programs in business and finance.",
+        "Skill Demand & Market Relevance": "Highly relevant skills in financial strategy, risk management, mergers & acquisitions, venture capital, and fundraising, aligning with current market demands for finance executives capable of driving growth and operational efficiency.",
+        "Leadership Experience": "Extensive leadership experience as CFO and VP of Finance, with responsibilities including spearheading fundraising, optimizing financial structures, leading M&A initiatives, and managing large budgets.",
+        "Budget & Project Management": "Managed budgets exceeding $500M and implemented ERP solutions, improving financial reporting accuracy by 40%, showcasing strong budget and project management capabilities.",
+        "International Experience & Mobility": "No explicit international experience mentioned; however, the global nature of venture capital and M&A activities may imply some level of international exposure.",
+        "Soft Skills from Sales Calls": "While not directly mentioned, skills in fundraising and M&A suggest strong negotiation, persuasion, and relationship-building abilities.",
+        "Personality & Behavioral Traits": "Results-driven, strategic thinker with a focus on growth and efficiency, as evidenced by successful fundraising, cost reduction, and M&A activities.",
+        "Future Career Goals (Sales-Inferred)": "Likely aspirations include advancing to higher executive roles such as CEO or focusing on entrepreneurial ventures, given the background in scaling startups and venture capital.",
+        "Salary Expectations (Sales-Inferred)": "Given the seniority and success in roles, salary expectations would be in the high range for CFO positions, potentially $200K+ with significant bonus and equity components in tech or venture-backed companies.",
+        "JD Enrichment with Implied Preferences": "Prefers roles with strategic impact, opportunities for growth, and leadership in financial operations, possibly in technology or venture-backed environments.",
+        "Cultural Fit Indicators": "Fits well in dynamic, growth-oriented cultures that value innovation, strategic financial management, and leadership in scaling operations."
+    },
+    "functional skills": ""
+}

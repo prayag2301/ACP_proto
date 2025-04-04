@@ -1,0 +1,453 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261665,
+                "organization": "Cornell University",
+                "accreditation": {
+                    "education": "MBA",
+                    "educationLevel": "masters",
+                    "inputStr": "MBA",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261666,
+                "organization": "University of Michigan",
+                "accreditation": {
+                    "education": "Bachelor of Arts",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Arts",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "lisagreen@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Lisa Green",
+            "last": "Green",
+            "first": "Lisa",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-987-123-4567"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-987-123-4567",
+                "formattedNumber": "+1 987-123-4567",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(987) 123-4567"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Lisa Green \n\nEmail: lisagreen@email.com Phone: +1-987-123-4567 LinkedIn: linkedin.com/in/lisagreen ",
+                "bbox": [
+                    32.102,
+                    35.72003,
+                    352.124,
+                    147.96802
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary: \nHR executive with 17+ years of experience in talent acquisition, leadership development, and company culture transformation. Passionate about building high-performing teams and fostering workplace diversity. ",
+                "bbox": [
+                    31.358,
+                    178.14197,
+                    563.41693,
+                    275.44604
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience: \nChief Human Resources Officer | PeopleFirst Corp | 2019 - Present \n- Implemented a leadership development program, increasing internal promotions by 40%. \n- Led DEI initiatives, improving workforce diversity by 35%. \n- Spearheaded HR digital transformation, reducing administrative overhead by 25%. \nVP of HR | TalentEdge | 2013 - 2019 \n- Designed performance management frameworks, boosting employee productivity. \n- Developed and executed retention strategies, reducing turnover by 30%. ",
+                "bbox": [
+                    31.414001,
+                    305.86,
+                    469.1879,
+                    491.859
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills: \nTalent Acquisition & Management, Leadership Development, Organizational Culture & DEI, HR Technology & Automation, Employee Engagement Strategies ",
+                "bbox": [
+                    31.358,
+                    518.292,
+                    563.64795,
+                    587.338
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education: \nMBA in Human Resource Management, Cornell University B.A. in Psychology, University of Michigan ",
+                "bbox": [
+                    32.066,
+                    617.68005,
+                    340.47797,
+                    686.54803
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028613618,
+                "emsiId": "ES2CC185FC27BC0DF8FE",
+                "name": "Talent Acquisition",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613620,
+                "emsiId": "ES2CC185FC27BC0DF8FE",
+                "name": "Talent Acquisition",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613623,
+                "emsiId": "BGSA4A8982D77DC66ABC",
+                "name": "Diversity Equity And Inclusion Initiatives",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613625,
+                "emsiId": "KS120SQ5W4Q57JMD2Y81",
+                "name": "Automation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613630,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613878,
+                "emsiId": "KS120SQ5W4Q57JMD2Y81",
+                "name": "Automation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028613632,
+                "emsiId": "KS4401D6PYRMFQC4HR62",
+                "name": "Resource Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614458,
+                "emsiId": "ES2CC185FC27BC0DF8FE",
+                "name": "Talent Acquisition",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614459,
+                "emsiId": "KS124JB619VXG6RQ810C",
+                "name": "Leadership",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614462,
+                "emsiId": "KS120W2749QQKD4JMM68",
+                "name": "Transformation (Genetics)",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614464,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 144,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614465,
+                "emsiId": "KS123HX6YG0PPBXV3922",
+                "name": "Performance Management",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 144,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614467,
+                "emsiId": "KS4401D6PYRMFQC4HR62",
+                "name": "Resource Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614468,
+                "emsiId": "ESC80C5E846C65F847EB",
+                "name": "Digital Transformation",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613619,
+                "emsiId": "KS125RW6ZWZ8DLT13SNR",
+                "name": "Leadership Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613621,
+                "emsiId": "KS125RW6ZWZ8DLT13SNR",
+                "name": "Leadership Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613622,
+                "emsiId": "ES7178401F7310423888",
+                "name": "Organizational Culture Change",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613624,
+                "emsiId": "KS123CQ6YWBJJH0NDXJK",
+                "name": "Human Resources Information System (HRIS)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613626,
+                "emsiId": "KS123HV5WHQXDMXZ667K",
+                "name": "Employee Engagement",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613627,
+                "emsiId": "ESE96CA4F9A3FA40CB13",
+                "name": "Culture Transformation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613631,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028613881,
+                "emsiId": "KSORG41MPDZUG1W4O6M6",
+                "name": "Boosting",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 144,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": 1,
+                        "workExperienceId": 180438812
+                    },
+                    {
+                        "section": "WorkExperience",
+                        "position": 3,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028613633,
+                "emsiId": "KS124VJ71BKMYXC1PP09",
+                "name": "Psychology",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614460,
+                "emsiId": "KS125RW6ZWZ8DLT13SNR",
+                "name": "Leadership Development",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614461,
+                "emsiId": "KS123HV5WHQXDMXZ667K",
+                "name": "Employee Engagement",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614463,
+                "emsiId": "ESE96CA4F9A3FA40CB13",
+                "name": "Culture Transformation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614466,
+                "emsiId": "KS44253607FYTYCJNMPZ",
+                "name": "Workplace Diversity",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "HR executive with 17+ years of experience in talent acquisition, leadership development, and company culture transformation. Passionate about building high-performing teams and fostering workplace diversity.",
+        "websites": [
+            "linkedin.com/in/lisagreen"
+        ],
+        "linkedin": "linkedin.com/in/lisagreen",
+        "totalYearsExperience": 12,
+        "profession": "Human Resources Officer",
+        "workExperience": [
+            {
+                "id": 180438811,
+                "jobTitle": "Chief Human Resources Officer",
+                "organization": "PeopleFirst Corp",
+                "location": null,
+                "dates": {
+                    "startDate": "2019-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 75,
+                    "isCurrent": true,
+                    "rawText": "2019 - Present"
+                },
+                "jobDescription": "\u2022 Implemented a leadership development program, increasing internal promotions by 40%. \n\u2022 Led DEI initiatives, improving workforce diversity by 35%. \n\u2022 Spearheaded HR digital transformation, reducing administrative overhead by 25%. ",
+                "occupation": {
+                    "jobTitle": "Chief Human Resources Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180438812,
+                "jobTitle": "VP of HR",
+                "organization": "TALENTEDGE",
+                "location": null,
+                "dates": {
+                    "startDate": "2013-01-01",
+                    "endDate": "2019-01-01",
+                    "monthsInPosition": 72,
+                    "isCurrent": false,
+                    "rawText": "2013 - 2019"
+                },
+                "jobDescription": "\u2022 Designed performance management frameworks, boosting employee productivity. \n\u2022 Developed and executed retention strategies, reducing turnover by 30%. ",
+                "occupation": {
+                    "jobTitle": "VP of HR",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Lisa Green \n\nEmail: lisagreen@email.com Phone: +1-987-123-4567 LinkedIn: linkedin.com/in/lisagreen \nSummary: \nHR executive with 17+ years of experience in talent acquisition, leadership development, and company culture transformation. Passionate about building high-performing teams and fostering workplace diversity. \nWork Experience: \nChief Human Resources Officer | PeopleFirst Corp | 2019 - Present \n- Implemented a leadership development program, increasing internal promotions by 40%. \n- Led DEI initiatives, improving workforce diversity by 35%. \n- Spearheaded HR digital transformation, reducing administrative overhead by 25%. \nVP of HR | TalentEdge | 2013 - 2019 \n- Designed performance management frameworks, boosting employee productivity. \n- Developed and executed retention strategies, reducing turnover by 30%. \nSkills: \nTalent Acquisition & Management, Leadership Development, Organizational Culture & DEI, HR Technology & Automation, Employee Engagement Strategies \nEducation: \nMBA in Human Resource Management, Cornell University B.A. in Psychology, University of Michigan ",
+        "redactedText": "**** ***** Email: ******************* Phone: *************** LinkedIn: *************************\nSummary: HR executive with 17+ years of experience in talent acquisition, leadership development, and company culture transformation. Passionate about building high-performing teams and fostering workplace diversity.\nWork Experience: Chief Human Resources Officer | PeopleFirst Corp | **** * Present - Implemented a leadership development program, increasing internal promotions by 40%. - Led DEI initiatives, improving workforce diversity by 35%. - Spearheaded HR digital transformation, reducing administrative overhead by 25%. VP of HR | TalentEdge | 2013 - 2019 - Designed performance management frameworks, boosting employee productivity. - Developed and executed retention strategies, reducing turnover by 30%.\nSkills: Talent Acquisition & Management, Leadership Development, Organizational Culture & DEI, HR Technology & Automation, Employee Engagement Strategies\nEducation: MBA in Human Resource Management, Cornell University B.A. in Psychology, University of Michigan"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

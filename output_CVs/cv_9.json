@@ -1,0 +1,453 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261667,
+                "organization": "Northwestern University",
+                "accreditation": {
+                    "education": "MBA",
+                    "educationLevel": "masters",
+                    "inputStr": "MBA",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261668,
+                "organization": "University of Texas at Austin",
+                "accreditation": {
+                    "education": "Bachelor of Science",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "markreynolds@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Mark Reynolds",
+            "last": "Reynolds",
+            "first": "Mark",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-789-456-1230"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-789-456-1230",
+                "formattedNumber": "+1 789-456-1230",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(789) 456-1230"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Mark Reynolds \nEmail: markreynolds@email.com Phone: +1-789-456-1230 LinkedIn: linkedin.com/in/markreynolds ",
+                "bbox": [
+                    32.102,
+                    35.83203,
+                    368.12598,
+                    147.89606
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary: \nCustomer success leader with 16+ years of experience in client relationship management, customer retention, and service innovation. Adept at driving customer satisfaction and revenue growth. ",
+                "bbox": [
+                    31.718,
+                    178.14197,
+                    564.0859,
+                    247.17804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience: \nChief Customer Officer | ClientFirst Solutions | 2020 - Present \n- Increased customer retention by 50% through loyalty programs. \n- Developed self-service solutions, reducing support costs by 30%. \n- Led a customer success team of 150+ professionals across multiple regions. \nVP of Customer Experience | EngageX | 2013 - 2020 \n- Established data-driven customer satisfaction KPIs, improving NPS by 40%. \n- Built a scalable support framework, handling a 200% increase in customer base. ",
+                "bbox": [
+                    31.414001,
+                    277.51996,
+                    427.61896,
+                    463.509
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills: \nCustomer Retention Strategies, Client Relationship Management, Support Operations & Service Innovation, Customer Success Analytics, Team Leadership ",
+                "bbox": [
+                    31.718,
+                    489.95203,
+                    563.6179,
+                    558.916
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education: \nMBA in Customer Experience Management, Northwestern University B.S. in Business Administration, University of Texas at Austin ",
+                "bbox": [
+                    32.066,
+                    589.33,
+                    395.83395,
+                    658.126
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028613747,
+                "emsiId": "KS122LZ73LBCYNVBL9N7",
+                "name": "Customer Retention",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613748,
+                "emsiId": "KS1217P66NK6BW72M9FH",
+                "name": "Customer Relationship Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613749,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613751,
+                "emsiId": "KS121Z26S4VJLQ1WXN21",
+                "name": "Customer Service",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613754,
+                "emsiId": "KS1217P66NK6BW72M9FH",
+                "name": "Customer Relationship Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613755,
+                "emsiId": "KS122LZ73LBCYNVBL9N7",
+                "name": "Customer Retention",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613757,
+                "emsiId": "KS121Z26S4VJLQ1WXN21",
+                "name": "Customer Service",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613759,
+                "emsiId": "KS440FV6YG4KVBZY5RKT",
+                "name": "Self Service Technologies",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613760,
+                "emsiId": "KS121Z26S4VJLQ1WXN21",
+                "name": "Customer Service",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613761,
+                "emsiId": "KS1217P66NK6BW72M9FH",
+                "name": "Customer Relationship Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613762,
+                "emsiId": "KS1218B62M9QRBY8WRSK",
+                "name": "Business Administration",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613886,
+                "emsiId": "ES70CD6E89F6DAD8F319",
+                "name": "Relationship Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": [
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "Summary",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028613889,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": [
+                    {
+                        "section": "Skills/Interests/Languages",
+                        "position": null,
+                        "workExperienceId": null
+                    }
+                ]
+            },
+            {
+                "id": 1028614469,
+                "emsiId": "KS122LZ73LBCYNVBL9N7",
+                "name": "Customer Retention",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 126,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614470,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614471,
+                "emsiId": "KS1253H61TTR1FZWSRH4",
+                "name": "Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614473,
+                "emsiId": "KS120GV5ZXR64CJLL1J4",
+                "name": "Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614475,
+                "emsiId": "KS124JB619VXG6RQ810C",
+                "name": "Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614477,
+                "emsiId": "KS1218B62M9QRBY8WRSK",
+                "name": "Business Administration",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613750,
+                "emsiId": "KS1218R6TPVRN2C2VC0Q",
+                "name": "Service Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613752,
+                "emsiId": "KS4418462TTGKL3CWJHT",
+                "name": "Team Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613753,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028613756,
+                "emsiId": "KS1218R6TPVRN2C2VC0Q",
+                "name": "Service Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614472,
+                "emsiId": "KS1218R6TPVRN2C2VC0Q",
+                "name": "Service Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614474,
+                "emsiId": "ES51980193663083AED5",
+                "name": "Customer Success Management",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 126,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614476,
+                "emsiId": "KS4418462TTGKL3CWJHT",
+                "name": "Team Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614478,
+                "emsiId": "KS7G20264NW3ZVV10T1S",
+                "name": "Revenue Growth",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Customer success leader with 16+ years of experience in client relationship management, customer retention, and service innovation. Adept at driving customer satisfaction and revenue growth.",
+        "websites": [
+            "linkedin.com/in/markreynolds"
+        ],
+        "linkedin": "linkedin.com/in/markreynolds",
+        "totalYearsExperience": 12,
+        "profession": "Customer Experience",
+        "workExperience": [
+            {
+                "id": 180438813,
+                "jobTitle": "Chief Customer Officer",
+                "organization": "Client First Solutions",
+                "location": null,
+                "dates": {
+                    "startDate": "2020-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 63,
+                    "isCurrent": true,
+                    "rawText": "2020 - Present"
+                },
+                "jobDescription": "\u2022 Increased customer retention by 50% through loyalty programs. \n\u2022 Developed self-service solutions, reducing support costs by 30%. \n\u2022 Led a customer success team of 150+ professionals across multiple regions. ",
+                "occupation": {
+                    "jobTitle": "Chief Customer Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180438814,
+                "jobTitle": "VP of Customer Experience",
+                "organization": "Engagex",
+                "location": null,
+                "dates": {
+                    "startDate": "2013-01-01",
+                    "endDate": "2020-01-01",
+                    "monthsInPosition": 84,
+                    "isCurrent": false,
+                    "rawText": "2013 - 2020"
+                },
+                "jobDescription": "\u2022 Established data-driven customer satisfaction KPIs, improving NPS by 40%. \n\u2022 Built a scalable support framework, handling a 200% increase in customer base. ",
+                "occupation": {
+                    "jobTitle": "VP of Customer Experience",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Mark Reynolds \nEmail: markreynolds@email.com Phone: +1-789-456-1230 LinkedIn: linkedin.com/in/markreynolds \nSummary: \nCustomer success leader with 16+ years of experience in client relationship management, customer retention, and service innovation. Adept at driving customer satisfaction and revenue growth. \nWork Experience: \nChief Customer Officer | ClientFirst Solutions | 2020 - Present \n- Increased customer retention by 50% through loyalty programs. \n- Developed self-service solutions, reducing support costs by 30%. \n- Led a customer success team of 150+ professionals across multiple regions. \nVP of Customer Experience | EngageX | 2013 - 2020 \n- Established data-driven customer satisfaction KPIs, improving NPS by 40%. \n- Built a scalable support framework, handling a 200% increase in customer base. \nSkills: \nCustomer Retention Strategies, Client Relationship Management, Support Operations & Service Innovation, Customer Success Analytics, Team Leadership \nEducation: \nMBA in Customer Experience Management, Northwestern University B.S. in Business Administration, University of Texas at Austin ",
+        "redactedText": "**** ******** Email: ********************** Phone: *************** LinkedIn: ****************************\nSummary: Customer success leader with 16+ years of experience in client relationship management, customer retention, and service innovation. Adept at driving customer satisfaction and revenue growth.\nWork Experience: Chief Customer Officer | ClientFirst Solutions | **** * Present - Increased customer retention by 50% through loyalty programs. - Developed self-service solutions, reducing support costs by 30%. - Led a customer success team of 150+ professionals across multiple regions. VP of Customer Experience | EngageX | 2013 - 2020 - Established data-driven customer satisfaction KPIs, improving NPS by 40%. - Built a scalable support framework, handling a 200% increase in customer base.\nSkills: Customer Retention Strategies, Client Relationship Management, Support Operations & Service Innovation, Customer Success Analytics, Team Leadership\nEducation: MBA in Customer Experience Management, Northwestern University B.S. in Business Administration, University of Texas at Austin"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

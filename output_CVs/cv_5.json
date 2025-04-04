@@ -1,0 +1,420 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261673,
+                "organization": "Stanford University",
+                "accreditation": {
+                    "education": "Master of Science",
+                    "educationLevel": "masters",
+                    "inputStr": "Master of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261674,
+                "organization": "MIT",
+                "accreditation": {
+                    "education": "B.S. in Electrical Engineering,",
+                    "educationLevel": null,
+                    "inputStr": "B.S. in Electrical Engineering,",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "kevinadams@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Kevin Adams",
+            "last": "Adams",
+            "first": "Kevin",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-345-678-9012"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-345-678-9012",
+                "formattedNumber": "+1 345-678-9012",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(345) 678-9012"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Kevin Adams \n\nEmail: kevinadams@email.com Phone: +1-345-678-9012 LinkedIn: linkedin.com/in/kevinadams ",
+                "bbox": [
+                    32.102,
+                    35.72003,
+                    361.898,
+                    145.55603
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary: \nEngineering leader with 19+ years of experience in R&D, product development, and hardware/software engineering. Passionate about building scalable and innovative engineering solutions. ",
+                "bbox": [
+                    31.574001,
+                    178.14197,
+                    563.41986,
+                    273.05804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience: \nChief Engineering Officer | BuildTech Solutions | 2018 - Present \n- Led the development of cutting-edge IoT and automation solutions. \n- Scaled engineering teams from 50 to 300+ professionals across multiple sites. \n- Streamlined product development lifecycles, reducing time-to-market by 40%. \nVP of Engineering | NextGen Tech | 2012 - 2018 \n- Spearheaded the design and launch of flagship hardware/software products. \n- Improved manufacturing processes, lowering production costs by 30%. ",
+                "bbox": [
+                    31.414001,
+                    305.86,
+                    417.53192,
+                    491.859
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills: \nProduct Development & R&D, IoT & Automation Engineering, Agile & Lean Engineering Practices, Manufacturing Process Optimization, Cross-Functional Leadership ",
+                "bbox": [
+                    31.736,
+                    518.292,
+                    563.04193,
+                    587.338
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education: \nM.S. in Mechanical Engineering, Stanford University B.S. in Electrical Engineering, MIT ",
+                "bbox": [
+                    32.066,
+                    617.68005,
+                    307.82596,
+                    686.54803
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028614506,
+                "emsiId": "KS120SQ5W4Q57JMD2Y81",
+                "name": "Automation",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 174,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614507,
+                "emsiId": "ES9C0ADA3C9397DD6AED",
+                "name": "Agile Software Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614508,
+                "emsiId": "KS128275ZSJDZ37SNG87",
+                "name": "Process Optimization",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614511,
+                "emsiId": "KS124JB619VXG6RQ810C",
+                "name": "Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614513,
+                "emsiId": "KS440QS66YCBN23Y8K25",
+                "name": "Software Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614514,
+                "emsiId": "KS120LH6DHTBJYVLFKB3",
+                "name": "Electrical Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613603,
+                "emsiId": "KS1270P6SLFCFT476Y3R",
+                "name": "New Product Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613604,
+                "emsiId": "KS1270P6SLFCFT476Y3R",
+                "name": "New Product Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613606,
+                "emsiId": "ES628D40D5C3B27C8B7D",
+                "name": "Industrial Automation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613609,
+                "emsiId": "ES19C4A31A5044820BA6",
+                "name": "Cross-Functional Team Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613611,
+                "emsiId": "KS1227N6MSF1WZ4B566W",
+                "name": "Computer Hardware",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613612,
+                "emsiId": "KS1253H61TTR1FZWSRH4",
+                "name": "Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613614,
+                "emsiId": "KS1270P6SLFCFT476Y3R",
+                "name": "New Product Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613617,
+                "emsiId": "KS120LH6DHTBJYVLFKB3",
+                "name": "Electrical Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614509,
+                "emsiId": "KS1219P6MRT9KQQKGRYH",
+                "name": "Good Manufacturing Practices",
+                "lastUsed": "2018-01-01",
+                "numberOfMonths": 144,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614510,
+                "emsiId": "KS1264K793QY5Q1BSXNF",
+                "name": "Manufacturing Processes",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614512,
+                "emsiId": "KS1261W6S12LL9NC21GQ",
+                "name": "Mechanical Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613602,
+                "emsiId": "KS128BK6JSSHNT5QDPMX",
+                "name": "Research And Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613605,
+                "emsiId": "KS128BK6JSSHNT5QDPMX",
+                "name": "Research And Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613607,
+                "emsiId": "KS120B874P2P6BK1MQ0T",
+                "name": "Agile Methodology",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613608,
+                "emsiId": "KS1264K793QY5Q1BSXNF",
+                "name": "Manufacturing Processes",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613610,
+                "emsiId": "KS1261W6S12LL9NC21GQ",
+                "name": "Mechanical Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613616,
+                "emsiId": "KSCK7UOCSNOZGW1Y1TSS",
+                "name": "Internet Of Things (IoT)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614029,
+                "emsiId": "KS1264K793QY5Q1BSXNF",
+                "name": "Manufacturing Processes",
+                "lastUsed": "2018-01-01",
+                "numberOfMonths": 144,
+                "type": "specialized_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": 3,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "WorkExperience",
+                        "position": 1,
+                        "workExperienceId": 180438820
+                    }
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Engineering leader with 19+ years of experience in R&D, product development, and hardware/software engineering. Passionate about building scalable and innovative engineering solutions.",
+        "websites": [
+            "linkedin.com/in/kevinadams"
+        ],
+        "linkedin": "linkedin.com/in/kevinadams",
+        "totalYearsExperience": 13,
+        "profession": "engineering",
+        "workExperience": [
+            {
+                "id": 180438819,
+                "jobTitle": "Chief Engineering Officer",
+                "organization": "BuildTech Solutions",
+                "location": null,
+                "dates": {
+                    "startDate": "2018-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 87,
+                    "isCurrent": true,
+                    "rawText": "2018 - Present"
+                },
+                "jobDescription": "\u2022 Led the development of cutting-edge IoT and automation solutions. \n\u2022 Scaled engineering teams from 50 to 300+ professionals across multiple sites. \n\u2022 Streamlined product development lifecycles, reducing time-to-market by 40%. ",
+                "occupation": {
+                    "jobTitle": "Chief Engineering Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180438820,
+                "jobTitle": "VP of Engineering",
+                "organization": "Nextgen Tech",
+                "location": null,
+                "dates": {
+                    "startDate": "2012-01-01",
+                    "endDate": "2018-01-01",
+                    "monthsInPosition": 72,
+                    "isCurrent": false,
+                    "rawText": "2012 - 2018"
+                },
+                "jobDescription": "\u2022 Spearheaded the design and launch of flagship hardware/software products. \n\u2022 Improved manufacturing processes, lowering production costs by 30%. ",
+                "occupation": {
+                    "jobTitle": "VP of Engineering",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Kevin Adams \n\nEmail: kevinadams@email.com Phone: +1-345-678-9012 LinkedIn: linkedin.com/in/kevinadams \nSummary: \nEngineering leader with 19+ years of experience in R&D, product development, and hardware/software engineering. Passionate about building scalable and innovative engineering solutions. \nWork Experience: \nChief Engineering Officer | BuildTech Solutions | 2018 - Present \n- Led the development of cutting-edge IoT and automation solutions. \n- Scaled engineering teams from 50 to 300+ professionals across multiple sites. \n- Streamlined product development lifecycles, reducing time-to-market by 40%. \nVP of Engineering | NextGen Tech | 2012 - 2018 \n- Spearheaded the design and launch of flagship hardware/software products. \n- Improved manufacturing processes, lowering production costs by 30%. \nSkills: \nProduct Development & R&D, IoT & Automation Engineering, Agile & Lean Engineering Practices, Manufacturing Process Optimization, Cross-Functional Leadership \nEducation: \nM.S. in Mechanical Engineering, Stanford University B.S. in Electrical Engineering, MIT ",
+        "redactedText": "***** ***** Email: ******************** Phone: *************** LinkedIn: **************************\nSummary: Engineering leader with 19+ years of experience in R&D, product development, and hardware/software engineering. Passionate about building scalable and innovative engineering solutions.\nWork Experience: Chief Engineering Officer | BuildTech Solutions | **** * Present - Led the development of cutting-edge IoT and automation solutions. - Scaled engineering teams from 50 to 300+ professionals across multiple sites. - Streamlined product development lifecycles, reducing time-to-market by 40%. VP of Engineering | NextGen Tech | 2012 - 2018 - Spearheaded the design and launch of flagship hardware/software products. - Improved manufacturing processes, lowering production costs by 30%.\nSkills: Product Development & R&D, IoT & Automation Engineering, Agile & Lean Engineering Practices, Manufacturing Process Optimization, Cross-Functional Leadership\nEducation: *.S. in Mechanical Engineering, Stanford University B.S. in Electrical Engineering, MIT"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

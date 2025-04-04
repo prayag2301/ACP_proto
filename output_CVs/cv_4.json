@@ -1,0 +1,479 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261010,
+                "organization": "MIT",
+                "accreditation": {
+                    "education": "Master of Science",
+                    "educationLevel": "masters",
+                    "inputStr": "Master of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "janesmith@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Jane Smith",
+            "last": "Smith",
+            "first": "Jane",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-987-654-3210"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-987-654-3210",
+                "formattedNumber": "+1 987-654-3210",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(987) 654-3210"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Jane Smith Chief Technology Officer (CTO) \n\nEmail: janesmith@email.com Phone: +1-987-654-3210 LinkedIn: linkedin.com/in/janesmith ",
+                "bbox": [
+                    32.102,
+                    35.528015,
+                    430.826,
+                    190.36798
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary \nTechnology leader with 20+ years of experience in software development, cloud computing, and AI-driven innovations. Proven expertise in scaling engineering teams and driving digital transformation. ",
+                "bbox": [
+                    31.358,
+                    234.83203,
+                    563.4139,
+                    329.75806
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience \nChief Technology Officer | InnovateX | 2019 - Present \n- Built a scalable cloud-based SaaS platform, increasing revenue by 200%. \n- Led a team of 200+ engineers across multiple global locations. \n- Championed AI adoption, enhancing product efficiency by 50%. \nVP of Engineering | TechCorp | 2014 - 2019 \n- Managed a $100M R&D budget, accelerating product innovation. \n- Transitioned the company from monolithic architecture to microservices. ",
+                "bbox": [
+                    31.414001,
+                    362.56003,
+                    394.61896,
+                    542.813
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills \nSoftware Development, Cloud Computing & SaaS, AI & Machine Learning, Digital Transformation, ",
+                "bbox": [
+                    31.736,
+                    563.65204,
+                    563.0399,
+                    604.338
+                ]
+            },
+            {
+                "sectionType": "Extracurriculars/Leadership",
+                "pageIndex": 0,
+                "text": "Team Leadership ",
+                "bbox": [
+                    31.358,
+                    621.44403,
+                    124.09401,
+                    632.532
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education \nM.S. in Computer Science, MIT B.S. in Information Technology, Stanford University ",
+                "bbox": [
+                    32.066,
+                    663.03,
+                    303.16995,
+                    731.898
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028522125,
+                "emsiId": "KS120L96KMYTDJ48NRSH",
+                "name": "Software Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522127,
+                "emsiId": "KS1220G68PD5STH2DL2W",
+                "name": "Software As A Service (SaaS)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522128,
+                "emsiId": "KS1261Z68KSKR1X31KS3",
+                "name": "Machine Learning",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522130,
+                "emsiId": "KS120BV6SR75RBKQH0G3",
+                "name": "Artificial Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522132,
+                "emsiId": "ESC80C5E846C65F847EB",
+                "name": "Digital Transformation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522133,
+                "emsiId": "KS1220G68PD5STH2DL2W",
+                "name": "Software As A Service (SaaS)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522136,
+                "emsiId": "KS126PL6Q3C9PM0V3KZR",
+                "name": "Monolithic Software Architecture",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522137,
+                "emsiId": "KSZX7YZWNR5IDR1I2VMZ",
+                "name": "Microservices",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522138,
+                "emsiId": "KS120BV6SR75RBKQH0G3",
+                "name": "Artificial Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522120,
+                "emsiId": "ESC80C5E846C65F847EB",
+                "name": "Digital Transformation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522123,
+                "emsiId": "KS120L96KMYTDJ48NRSH",
+                "name": "Software Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603447,
+                "emsiId": "KS120L96KMYTDJ48NRSH",
+                "name": "Software Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603448,
+                "emsiId": "KS1261Z68KSKR1X31KS3",
+                "name": "Machine Learning",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603449,
+                "emsiId": "ESC80C5E846C65F847EB",
+                "name": "Digital Transformation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603450,
+                "emsiId": "KS120W2749QQKD4JMM68",
+                "name": "Transformation (Genetics)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603451,
+                "emsiId": "KS1253H61TTR1FZWSRH4",
+                "name": "Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603453,
+                "emsiId": "KSZX7YZWNR5IDR1I2VMZ",
+                "name": "Microservices",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 120,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603455,
+                "emsiId": "KS124JB619VXG6RQ810C",
+                "name": "Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522124,
+                "emsiId": "KS1220H6CP1BQGH9STNK",
+                "name": "Cloud Computing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522126,
+                "emsiId": "KS1220H6CP1BQGH9STNK",
+                "name": "Cloud Computing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522129,
+                "emsiId": "KS1227V6WBR3BH3SJYSZ",
+                "name": "Information Technology",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522131,
+                "emsiId": "KS8X0M4RYTVQIMGAJ9KY",
+                "name": "Autoscaling",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522134,
+                "emsiId": "ES39E5C01E1593CE9E72",
+                "name": "Operational Efficiency",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522135,
+                "emsiId": "KS1282L6PTF6G8R116R4",
+                "name": "Product Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522139,
+                "emsiId": "KS1227V6WBR3BH3SJYSZ",
+                "name": "Information Technology",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522121,
+                "emsiId": "KS4418462TTGKL3CWJHT",
+                "name": "Team Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522122,
+                "emsiId": "KS1226Y6DNDT05G7FJ4J",
+                "name": "Computer Science",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603446,
+                "emsiId": "KS1220H6CP1BQGH9STNK",
+                "name": "Cloud Computing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603452,
+                "emsiId": "KS1282L6PTF6G8R116R4",
+                "name": "Product Innovation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603454,
+                "emsiId": "KS1227V6WBR3BH3SJYSZ",
+                "name": "Information Technology",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603456,
+                "emsiId": "KS4418462TTGKL3CWJHT",
+                "name": "Team Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603457,
+                "emsiId": "KS1226Y6DNDT05G7FJ4J",
+                "name": "Computer Science",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Technology leader with 20+ years of experience in software development, cloud computing, and AI-driven innovations. Proven expertise in scaling engineering teams and driving digital transformation.",
+        "websites": [
+            "linkedin.com/in/janesmith"
+        ],
+        "linkedin": "linkedin.com/in/janesmith",
+        "totalYearsExperience": 11,
+        "profession": "Chief Technology Officer",
+        "workExperience": [
+            {
+                "id": 180437219,
+                "jobTitle": "Chief Technology Officer",
+                "organization": "InnovateX",
+                "location": null,
+                "dates": {
+                    "startDate": "2019-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 75,
+                    "isCurrent": true,
+                    "rawText": "2019 - Present"
+                },
+                "jobDescription": "\u2022 Built a scalable cloud-based SaaS platform, increasing revenue by 200%. \n\u2022 Led a team of 200+ engineers across multiple global locations. \n\u2022 Championed AI adoption, enhancing product efficiency by 50%. ",
+                "occupation": {
+                    "jobTitle": "Chief Technology Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180437220,
+                "jobTitle": "VP of Engineering",
+                "organization": "TECHCORP",
+                "location": null,
+                "dates": {
+                    "startDate": "2014-01-01",
+                    "endDate": "2019-01-01",
+                    "monthsInPosition": 60,
+                    "isCurrent": false,
+                    "rawText": "2014 - 2019"
+                },
+                "jobDescription": "\u2022 Managed a $100M R&D budget, accelerating product innovation. \n\u2022 Transitioned the company from monolithic architecture to microservices. ",
+                "occupation": {
+                    "jobTitle": "VP of Engineering",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Jane Smith Chief Technology Officer (CTO) \n\nEmail: janesmith@email.com Phone: +1-987-654-3210 LinkedIn: linkedin.com/in/janesmith \nSummary \nTechnology leader with 20+ years of experience in software development, cloud computing, and AI-driven innovations. Proven expertise in scaling engineering teams and driving digital transformation. \nWork Experience \nChief Technology Officer | InnovateX | 2019 - Present \n- Built a scalable cloud-based SaaS platform, increasing revenue by 200%. \n- Led a team of 200+ engineers across multiple global locations. \n- Championed AI adoption, enhancing product efficiency by 50%. \nVP of Engineering | TechCorp | 2014 - 2019 \n- Managed a $100M R&D budget, accelerating product innovation. \n- Transitioned the company from monolithic architecture to microservices. \nSkills \nSoftware Development, Cloud Computing & SaaS, AI & Machine Learning, Digital Transformation, \nTeam Leadership \nEducation \nM.S. in Computer Science, MIT B.S. in Information Technology, Stanford University ",
+        "redactedText": "**** ***** Chief Technology Officer (CTO) Email: ******************* Phone: *************** LinkedIn: *************************\nSummary Technology leader with 20+ years of experience in software development, cloud computing, and AI-driven innovations. Proven expertise in scaling engineering teams and driving digital transformation.\nWork Experience Chief Technology Officer | InnovateX | **** * Present - Built a scalable cloud-based SaaS platform, increasing revenue by 200%. - Led a team of 200+ engineers across multiple global locations. - Championed AI adoption, enhancing product efficiency by 50%. VP of Engineering | TechCorp | 2014 - 2019 - Managed a $100M R&D budget, accelerating product innovation. - Transitioned the company from monolithic architecture to microservices.\nSkills Software Development, Cloud Computing & SaaS, AI & Machine Learning, Digital Transformation,\nTeam Leadership\nEducation *.S. in Computer Science, MIT B.S. in Information Technology, Stanford University"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

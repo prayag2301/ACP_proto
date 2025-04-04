@@ -1,0 +1,445 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261056,
+                "organization": "Wharton School",
+                "accreditation": {
+                    "education": "Master of Business",
+                    "educationLevel": "masters",
+                    "inputStr": "Master of Business",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261057,
+                "organization": "Georgia Tech",
+                "accreditation": {
+                    "education": "Bachelor of Science",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "michaeljohnson@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Michael Johnson",
+            "last": "Johnson",
+            "first": "Michael",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-456-789-0123"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-456-789-0123",
+                "formattedNumber": "+1 456-789-0123",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(456) 789-0123"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Michael Johnson Chief Operating Officer (COO) \n\nEmail: michaeljohnson@email.com Phone: +1-456-789-0123 LinkedIn: linkedin.com/in/michaeljohnson ",
+                "bbox": [
+                    32.102,
+                    35.72003,
+                    425.044,
+                    190.36798
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary \nStrategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability. ",
+                "bbox": [
+                    31.61,
+                    234.83203,
+                    563.66583,
+                    303.86804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience \nChief Operating Officer | ScaleUp Inc. | 2020 - Present \n- Reduced supply chain costs by 25% through process automation. \n- Implemented agile operations, reducing product delivery time by 40%. \n- Scaled workforce from 100 to 500 employees, ensuring seamless growth. \nVP of Operations | GrowthTech | 2013 - 2020 \n- Developed data-driven KPIs, improving operational efficiency by 30%. \n- Led international expansion into 5 new markets. ",
+                "bbox": [
+                    31.414001,
+                    334.21002,
+                    394.59692,
+                    514.386
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills \nSupply Chain Management, Process Optimization, Agile Operations, Team & Workforce Scaling, International Expansion ",
+                "bbox": [
+                    31.736,
+                    535.302,
+                    563.04,
+                    604.182
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education \nMBA in Operations Management, Wharton School B.S. in Industrial Engineering, Georgia Tech ",
+                "bbox": [
+                    32.066,
+                    634.68005,
+                    296.49796,
+                    703.55804
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028522168,
+                "emsiId": "KS1253Q66NQSNHM7JR49",
+                "name": "Industrial Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522169,
+                "emsiId": "KS440C365HRHPM9VQDFF",
+                "name": "Supply Chain Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522170,
+                "emsiId": "KS121966TYHFTSKSFV8R",
+                "name": "Business Process Improvement",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522174,
+                "emsiId": "KS1258F6VFFDYRTK8L0Y",
+                "name": "International Business",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522175,
+                "emsiId": "KS122VW78Q67XR4C3ZDW",
+                "name": "Operating Systems",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522177,
+                "emsiId": "KS440C365HRHPM9VQDFF",
+                "name": "Supply Chain Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522178,
+                "emsiId": "KS121966TYHFTSKSFV8R",
+                "name": "Business Process Improvement",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522181,
+                "emsiId": "KS120SQ5W4Q57JMD2Y81",
+                "name": "Automation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522182,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522183,
+                "emsiId": "KS120GV5ZXR64CJLL1J4",
+                "name": "Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522184,
+                "emsiId": "KS125MK6L8XN70ZS40ZY",
+                "name": "Key Performance Indicators (KPIs)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604158,
+                "emsiId": "KS1253Q66NQSNHM7JR49",
+                "name": "Industrial Engineering",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604159,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604161,
+                "emsiId": "KS440C365HRHPM9VQDFF",
+                "name": "Supply Chain Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604162,
+                "emsiId": "KS128275ZSJDZ37SNG87",
+                "name": "Process Optimization",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604163,
+                "emsiId": "KS127D361PF0FTXDZ7C4",
+                "name": "Operations",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 126,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604164,
+                "emsiId": "ES9C0ADA3C9397DD6AED",
+                "name": "Agile Software Development",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 126,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604166,
+                "emsiId": "KS120SQ5W4Q57JMD2Y81",
+                "name": "Automation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522171,
+                "emsiId": "ES5084E497CF6A499186",
+                "name": "Agile Project Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522172,
+                "emsiId": "KS1215X736FGJZK6JKST",
+                "name": "Brainstorming",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522173,
+                "emsiId": "KS8X0M4RYTVQIMGAJ9KY",
+                "name": "Autoscaling",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522179,
+                "emsiId": "BGS97DB1BBD70EA98FDB",
+                "name": "Business Expansion",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522180,
+                "emsiId": "KS124RX787SQ1WVD8XF6",
+                "name": "Scalability",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522186,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028522187,
+                "emsiId": "KS127CS79GV081FMJYKZ",
+                "name": "Operations Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604160,
+                "emsiId": "ES72D57E1BC4BB22BBB0",
+                "name": "Supply Chain",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 126,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604165,
+                "emsiId": "KS124RX787SQ1WVD8XF6",
+                "name": "Scalability",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604167,
+                "emsiId": "ES39E5C01E1593CE9E72",
+                "name": "Operational Efficiency",
+                "lastUsed": "2020-01-01",
+                "numberOfMonths": 168,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Strategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability.",
+        "websites": [
+            "linkedin.com/in/michaeljohnson"
+        ],
+        "linkedin": "linkedin.com/in/michaeljohnson",
+        "totalYearsExperience": 12,
+        "profession": "Chief Operating Officer",
+        "workExperience": [
+            {
+                "id": 180437319,
+                "jobTitle": "Chief Operating Officer",
+                "organization": "ScaleUp Inc.",
+                "location": null,
+                "dates": {
+                    "startDate": "2020-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 63,
+                    "isCurrent": true,
+                    "rawText": "2020 - Present"
+                },
+                "jobDescription": "\u2022 Reduced supply chain costs by 25% through process automation. \n\u2022 Implemented agile operations, reducing product delivery time by 40%. \n\u2022 Scaled workforce from 100 to 500 employees, ensuring seamless growth. ",
+                "occupation": {
+                    "jobTitle": "Chief Operating Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180437320,
+                "jobTitle": "VP of Operations",
+                "organization": "GrowthTech",
+                "location": null,
+                "dates": {
+                    "startDate": "2013-01-01",
+                    "endDate": "2020-01-01",
+                    "monthsInPosition": 84,
+                    "isCurrent": false,
+                    "rawText": "2013 - 2020"
+                },
+                "jobDescription": "\u2022 Developed data-driven KPIs, improving operational efficiency by 30%. \n\u2022 Led international expansion into 5 new markets. ",
+                "occupation": {
+                    "jobTitle": "VP of Operations",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Michael Johnson Chief Operating Officer (COO) \n\nEmail: michaeljohnson@email.com Phone: +1-456-789-0123 LinkedIn: linkedin.com/in/michaeljohnson \nSummary \nStrategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability. \nWork Experience \nChief Operating Officer | ScaleUp Inc. | 2020 - Present \n- Reduced supply chain costs by 25% through process automation. \n- Implemented agile operations, reducing product delivery time by 40%. \n- Scaled workforce from 100 to 500 employees, ensuring seamless growth. \nVP of Operations | GrowthTech | 2013 - 2020 \n- Developed data-driven KPIs, improving operational efficiency by 30%. \n- Led international expansion into 5 new markets. \nSkills \nSupply Chain Management, Process Optimization, Agile Operations, Team & Workforce Scaling, International Expansion \nEducation \nMBA in Operations Management, Wharton School B.S. in Industrial Engineering, Georgia Tech ",
+        "redactedText": "******* ******* Chief Operating Officer (COO) Email: ************************ Phone: *************** LinkedIn: ******************************\nSummary Strategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability.\nWork Experience Chief Operating Officer | ScaleUp Inc. | **** * Present - Reduced supply chain costs by 25% through process automation. - Implemented agile operations, reducing product delivery time by 40%. - Scaled workforce from 100 to 500 employees, ensuring seamless growth. VP of Operations | GrowthTech | 2013 - 2020 - Developed data-driven KPIs, improving operational efficiency by 30%. - Led international expansion into 5 new markets.\nSkills Supply Chain Management, Process Optimization, Agile Operations, Team & Workforce Scaling, International Expansion\nEducation MBA in Operations Management, Wharton School B.S. in Industrial Engineering, Georgia Tech"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

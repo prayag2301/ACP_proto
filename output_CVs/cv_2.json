@@ -1,0 +1,414 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261054,
+                "organization": "KELLOGG SCHOOL OF MANAGEMENT",
+                "accreditation": {
+                    "education": "Master of Business",
+                    "educationLevel": "masters",
+                    "inputStr": "Master of Business",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "sarahlee@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Sarah Lee",
+            "last": "Lee",
+            "first": "Sarah",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+13216549870"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+13216549870",
+                "formattedNumber": "+1 321-654-9870",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(321) 654-9870"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Sarah Lee Chief Marketing Officer (CMO) \n\nEmail: sarahlee@email.com Phone: +1-321-654-9870 LinkedIn: linkedin.com/in/sarahlee ",
+                "bbox": [
+                    32.102,
+                    35.528015,
+                    425.484,
+                    188.07599
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary \nMarketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries. ",
+                "bbox": [
+                    31.67,
+                    234.83203,
+                    563.4138,
+                    303.86804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience \nChief Marketing Officer | BrandBoost | 2018 - Present \n- Launched viral campaigns that increased brand engagement by 300%. \n- Optimized customer acquisition, reducing cost per lead by 40%. \n- Scaled marketing team from 10 to 50 professionals. \nVP of Marketing | DigitalX | 2011 - 2018 \n- Led rebranding efforts, increasing market share by 20%. \n- Established influencer marketing partnerships, driving $10M in new revenue. ",
+                "bbox": [
+                    31.414001,
+                    334.21002,
+                    409.27097,
+                    514.529
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills \nBrand Strategy, Digital Marketing, Demand Generation, Customer Acquisition, Influencer & Partnership Marketing ",
+                "bbox": [
+                    31.736,
+                    535.302,
+                    563.8399,
+                    604.338
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education \nMBA in Marketing, Kellogg School of Management B.A. in Communications, UCLA ",
+                "bbox": [
+                    32.066,
+                    634.68005,
+                    299.054,
+                    702.682
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028522385,
+                "emsiId": "ES3A33737C74D25D112A",
+                "name": "Brand Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522388,
+                "emsiId": "KS121Z062B812PLRSS3M",
+                "name": "Customer Acquisition Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522391,
+                "emsiId": "KS124QR6F19BX4WPMW1H",
+                "name": "Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522392,
+                "emsiId": "KS124QR6F19BX4WPMW1H",
+                "name": "Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522393,
+                "emsiId": "ES3A33737C74D25D112A",
+                "name": "Brand Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522396,
+                "emsiId": "KS121Z062B812PLRSS3M",
+                "name": "Customer Acquisition Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522398,
+                "emsiId": "KS124QR6F19BX4WPMW1H",
+                "name": "Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522400,
+                "emsiId": "KS121Z062B812PLRSS3M",
+                "name": "Customer Acquisition Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522406,
+                "emsiId": "KS124QR6F19BX4WPMW1H",
+                "name": "Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522407,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522408,
+                "emsiId": "KS122556LMQ829GZCCRV",
+                "name": "Communication",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604127,
+                "emsiId": "KS124QR6F19BX4WPMW1H",
+                "name": "Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604129,
+                "emsiId": "KS1265161XH6ZSH9QX65",
+                "name": "Market Share",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604130,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522386,
+                "emsiId": "KS122YN6108R0RSDXXRC",
+                "name": "Digital Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522387,
+                "emsiId": "KS122TP61TV16099MSY3",
+                "name": "Demand Generation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522389,
+                "emsiId": "KS1254170QB67VTMR84C",
+                "name": "Influencer Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522390,
+                "emsiId": "KS1218C69LM6XYNXWKC1",
+                "name": "Business Alliance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522394,
+                "emsiId": "KS122YN6108R0RSDXXRC",
+                "name": "Digital Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522395,
+                "emsiId": "KS122TP61TV16099MSY3",
+                "name": "Demand Generation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522397,
+                "emsiId": "KS12160602V51N7SJSX8",
+                "name": "Brand Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522399,
+                "emsiId": "KS123R96G4V34GM5CV33",
+                "name": "Engagement Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522402,
+                "emsiId": "ESD08BE3B3B176DC2269",
+                "name": "Corporate Branding",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522405,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028604126,
+                "emsiId": "KS1254170QB67VTMR84C",
+                "name": "Influencer Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028604128,
+                "emsiId": "KS122YN6108R0RSDXXRC",
+                "name": "Digital Marketing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Marketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries.",
+        "websites": [
+            "linkedin.com/in/sarahlee"
+        ],
+        "linkedin": "linkedin.com/in/sarahlee",
+        "totalYearsExperience": 14,
+        "profession": "Chief marketing officer",
+        "workExperience": [
+            {
+                "id": 180437308,
+                "jobTitle": "Chief Marketing Officer",
+                "organization": "Brand Boost",
+                "location": null,
+                "dates": {
+                    "startDate": "2018-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 87,
+                    "isCurrent": true,
+                    "rawText": "2018 - Present"
+                },
+                "jobDescription": "\u2022 Launched viral campaigns that increased brand engagement by 300%. \n\u2022 Optimized customer acquisition, reducing cost per lead by 40%. \n\u2022 Scaled marketing team from 10 to 50 professionals. ",
+                "occupation": {
+                    "jobTitle": "Chief Marketing Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180437309,
+                "jobTitle": "VP of Marketing",
+                "organization": "DigitalX",
+                "location": null,
+                "dates": {
+                    "startDate": "2011-01-01",
+                    "endDate": "2018-01-01",
+                    "monthsInPosition": 84,
+                    "isCurrent": false,
+                    "rawText": "2011 - 2018"
+                },
+                "jobDescription": "\u2022 Led rebranding efforts, increasing market share by 20%. \n\u2022 Established influencer marketing partnerships, driving $10M in new revenue. ",
+                "occupation": {
+                    "jobTitle": "VP of Marketing",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Sarah Lee Chief Marketing Officer (CMO) \n\nEmail: sarahlee@email.com Phone: +1-321-654-9870 LinkedIn: linkedin.com/in/sarahlee \nSummary \nMarketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries. \nWork Experience \nChief Marketing Officer | BrandBoost | 2018 - Present \n- Launched viral campaigns that increased brand engagement by 300%. \n- Optimized customer acquisition, reducing cost per lead by 40%. \n- Scaled marketing team from 10 to 50 professionals. \nVP of Marketing | DigitalX | 2011 - 2018 \n- Led rebranding efforts, increasing market share by 20%. \n- Established influencer marketing partnerships, driving $10M in new revenue. \nSkills \nBrand Strategy, Digital Marketing, Demand Generation, Customer Acquisition, Influencer & Partnership Marketing \nEducation \nMBA in Marketing, Kellogg School of Management B.A. in Communications, UCLA ",
+        "redactedText": "***** *** Chief Marketing Officer (CMO) Email: ****************** Phone: *************** LinkedIn: ************************\nSummary Marketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries.\nWork Experience Chief Marketing Officer | BrandBoost | **** * Present - Launched viral campaigns that increased brand engagement by 300%. - Optimized customer acquisition, reducing cost per lead by 40%. - Scaled marketing team from 10 to 50 professionals. VP of Marketing | DigitalX | 2011 - 2018 - Led rebranding efforts, increasing market share by 20%. - Established influencer marketing partnerships, driving $10M in new revenue.\nSkills Brand Strategy, Digital Marketing, Demand Generation, Customer Acquisition, Influencer & Partnership Marketing\nEducation MBA in Marketing, Kellogg School of Management B.A. in Communications, UCLA"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

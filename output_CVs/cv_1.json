@@ -1,0 +1,405 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261043,
+                "organization": "Columbia Business School",
+                "accreditation": {
+                    "education": "Master of Business",
+                    "educationLevel": "masters",
+                    "inputStr": "Master of Business",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "robertbrown@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Robert Brown",
+            "last": "Brown",
+            "first": "Robert",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+15678901234"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+15678901234",
+                "formattedNumber": "+1 567-890-1234",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(567) 890-1234"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Robert Brown Chief Revenue Officer (CRO) \n\nEmail: robertbrown@email.com Phone: +1-567-890-1234 LinkedIn: linkedin.com/in/robertbrown ",
+                "bbox": [
+                    32.102,
+                    35.83203,
+                    420.15796,
+                    188.07599
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary \nDynamic sales leader with 19+ years of experience in revenue growth, business development, and go-to-market strategies. Expertise in scaling startups and closing multi-million-dollar deals. ",
+                "bbox": [
+                    31.67,
+                    234.83203,
+                    563.41785,
+                    303.86804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience \nChief Revenue Officer | GrowthMax | 2019 - Present \n- Increased annual revenue from $20M to $100M within 3 years. \n- Built and led a high-performance sales team, achieving 150% quota attainment. \n- Expanded global partnerships, adding $50M in pipeline value. \nVP of Sales | EnterpriseX | 2012 - 2019 \n- Developed and executed sales strategies that grew revenue by 300%. \n- Established key enterprise accounts, closing deals worth over $25M. ",
+                "bbox": [
+                    31.414001,
+                    334.21002,
+                    423.97797,
+                    514.529
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills \nRevenue Growth & Strategy, Business Development, Enterprise Sales, Go-to-Market Strategy, Sales Leadership & Team Building ",
+                "bbox": [
+                    31.736,
+                    535.302,
+                    563.04193,
+                    604.338
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education \nMBA in Business Strategy, Columbia Business School B.S. in Economics, University of Chicago ",
+                "bbox": [
+                    32.066,
+                    634.68005,
+                    318.49396,
+                    703.55804
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028522256,
+                "emsiId": "KS1212B6QR5SK1LSD4S4",
+                "name": "Business Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522257,
+                "emsiId": "BGS7769CB2FE0C6E8B8A",
+                "name": "Enterprise Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522258,
+                "emsiId": "ES3CDF4F5564949F81DB",
+                "name": "Go-to-Market Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522259,
+                "emsiId": "KS4402C6D177HKD7H7VG",
+                "name": "Revenue Analysis",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522261,
+                "emsiId": "KS123X777H5WFNXQ6BPM",
+                "name": "Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522262,
+                "emsiId": "KS4418371TN1X41T1P3G",
+                "name": "Team Building",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522264,
+                "emsiId": "KS440ZZ6HJGY92HPTWCV",
+                "name": "Business Strategies",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522265,
+                "emsiId": "KS1239W6QZKL1H0TF1TJ",
+                "name": "Economics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522267,
+                "emsiId": "KS1212B6QR5SK1LSD4S4",
+                "name": "Business Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522268,
+                "emsiId": "ES3CDF4F5564949F81DB",
+                "name": "Go-to-Market Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522269,
+                "emsiId": "KS123KR6W35X39JP65MX",
+                "name": "Entrepreneurship",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522271,
+                "emsiId": "KS123X777H5WFNXQ6BPM",
+                "name": "Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522272,
+                "emsiId": "BGS409FD4E9C8053A315",
+                "name": "Sales Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603969,
+                "emsiId": "KS123X777H5WFNXQ6BPM",
+                "name": "Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603970,
+                "emsiId": "BGS7769CB2FE0C6E8B8A",
+                "name": "Enterprise Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603971,
+                "emsiId": "KS4418371TN1X41T1P3G",
+                "name": "Team Building",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603972,
+                "emsiId": "KS1212B6QR5SK1LSD4S4",
+                "name": "Business Development",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603974,
+                "emsiId": "ES3CDF4F5564949F81DB",
+                "name": "Go-to-Market Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603975,
+                "emsiId": "KS1220C663NX0Z4Q78P1",
+                "name": "Closing (Sales)",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 168,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603976,
+                "emsiId": "KS124JB619VXG6RQ810C",
+                "name": "Leadership",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603977,
+                "emsiId": "KS1239W6QZKL1H0TF1TJ",
+                "name": "Economics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522255,
+                "emsiId": "KS7G20264NW3ZVV10T1S",
+                "name": "Revenue Growth",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028522263,
+                "emsiId": "KS7G0MR67M0BRYR44YDM",
+                "name": "Master Of Business Administration (MBA)",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "certification",
+                "sources": []
+            },
+            {
+                "id": 1028522266,
+                "emsiId": "KS7G20264NW3ZVV10T1S",
+                "name": "Revenue Growth",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028603973,
+                "emsiId": "KS7G20264NW3ZVV10T1S",
+                "name": "Revenue Growth",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Dynamic sales leader with 19+ years of experience in revenue growth, business development, and go-to-market strategies. Expertise in scaling startups and closing multi-million-dollar deals.",
+        "websites": [
+            "linkedin.com/in/robertbrown"
+        ],
+        "linkedin": "linkedin.com/in/robertbrown",
+        "totalYearsExperience": 13,
+        "profession": "Chief Revenue Officer",
+        "workExperience": [
+            {
+                "id": 180437292,
+                "jobTitle": "Chief Revenue Officer",
+                "organization": "GrowthMax",
+                "location": null,
+                "dates": {
+                    "startDate": "2019-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 75,
+                    "isCurrent": true,
+                    "rawText": "2019 - Present"
+                },
+                "jobDescription": "\u2022 Increased annual revenue from $20M to $100M within 3 years. \n\u2022 Built and led a high-performance sales team, achieving 150% quota attainment. \n\u2022 Expanded global partnerships, adding $50M in pipeline value. ",
+                "occupation": {
+                    "jobTitle": "Chief Revenue Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180437293,
+                "jobTitle": "VP of Sales",
+                "organization": "EnterpriseX",
+                "location": null,
+                "dates": {
+                    "startDate": "2012-01-01",
+                    "endDate": "2019-01-01",
+                    "monthsInPosition": 84,
+                    "isCurrent": false,
+                    "rawText": "2012 - 2019"
+                },
+                "jobDescription": "\u2022 Developed and executed sales strategies that grew revenue by 300%. \n\u2022 Established key enterprise accounts, closing deals worth over $25M. ",
+                "occupation": {
+                    "jobTitle": "VP of Sales",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Robert Brown Chief Revenue Officer (CRO) \n\nEmail: robertbrown@email.com Phone: +1-567-890-1234 LinkedIn: linkedin.com/in/robertbrown \nSummary \nDynamic sales leader with 19+ years of experience in revenue growth, business development, and go-to-market strategies. Expertise in scaling startups and closing multi-million-dollar deals. \nWork Experience \nChief Revenue Officer | GrowthMax | 2019 - Present \n- Increased annual revenue from $20M to $100M within 3 years. \n- Built and led a high-performance sales team, achieving 150% quota attainment. \n- Expanded global partnerships, adding $50M in pipeline value. \nVP of Sales | EnterpriseX | 2012 - 2019 \n- Developed and executed sales strategies that grew revenue by 300%. \n- Established key enterprise accounts, closing deals worth over $25M. \nSkills \nRevenue Growth & Strategy, Business Development, Enterprise Sales, Go-to-Market Strategy, Sales Leadership & Team Building \nEducation \nMBA in Business Strategy, Columbia Business School B.S. in Economics, University of Chicago ",
+        "redactedText": "****** ***** Chief Revenue Officer (CRO) Email: ********************* Phone: *************** LinkedIn: ***************************\nSummary Dynamic sales leader with 19+ years of experience in revenue growth, business development, and go-to-market strategies. Expertise in scaling startups and closing multi-million-dollar deals.\nWork Experience Chief Revenue Officer | GrowthMax | **** * Present - Increased annual revenue from $20M to $100M within 3 years. - Built and led a high-performance sales team, achieving 150% quota attainment. - Expanded global partnerships, adding $50M in pipeline value. VP of Sales | EnterpriseX | 2012 - 2019 - Developed and executed sales strategies that grew revenue by 300%. - Established key enterprise accounts, closing deals worth over $25M.\nSkills Revenue Growth & Strategy, Business Development, Enterprise Sales, Go-to-Market Strategy, Sales Leadership & Team Building\nEducation MBA in Business Strategy, Columbia Business School B.S. in Economics, University of Chicago"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

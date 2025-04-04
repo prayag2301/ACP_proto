@@ -1,0 +1,445 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261688,
+                "organization": "Yale Law School",
+                "accreditation": {
+                    "education": "Doctor of Law",
+                    "educationLevel": "doctoral",
+                    "inputStr": "Doctor of Law",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261689,
+                "organization": "Princeton University",
+                "accreditation": {
+                    "education": "Bachelor of Arts",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Arts",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "danielcarter@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Daniel Carter",
+            "last": "Carter",
+            "first": "Daniel",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+1-654-789-3210"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+1-654-789-3210",
+                "formattedNumber": "+1 654-789-3210",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(654) 789-3210"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Daniel Carter \n\nEmail: danielcarter@email.com Phone: +1-654-789-3210 LinkedIn: linkedin.com/in/danielcarter ",
+                "bbox": [
+                    32.102,
+                    35.528015,
+                    361.348,
+                    145.55603
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary: \nExperienced legal executive with 20+ years of expertise in corporate governance, compliance, and risk management. Specializing in legal strategy for high-growth startups and multinational corporations. ",
+                "bbox": [
+                    31.67,
+                    178.14197,
+                    563.4138,
+                    275.362
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience: \nChief Legal Officer | SecureLaw Inc. | 2018 - Present \n- Led regulatory compliance initiatives, reducing legal risk by 50%. \n- Managed M&A legal processes for $200M+ in acquisitions. \n- Developed IP protection strategies, securing 10+ patents. \nGeneral Counsel | LegalPath | 2012 - 2018 \n- Negotiated high-stakes contracts, saving the company $30M. \n- Established corporate governance policies, ensuring SEC compliance. ",
+                "bbox": [
+                    31.414001,
+                    305.86,
+                    379.31796,
+                    491.859
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills: \nCorporate Governance, Compliance & Risk Management, Mergers & Acquisitions, Contract Negotiation, Intellectual Property Law ",
+                "bbox": [
+                    31.718,
+                    518.292,
+                    563.8519,
+                    587.338
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education: \nJuris Doctor (JD), Yale Law School B.A. in Political Science, Princeton University ",
+                "bbox": [
+                    31.394001,
+                    617.68005,
+                    270.46997,
+                    686.476
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028613730,
+                "emsiId": "KS1284M622VT3F77037Q",
+                "name": "Project Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613732,
+                "emsiId": "KS122F377FV66S5LZS9T",
+                "name": "Corporate Governance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613733,
+                "emsiId": "BGSA09D67D5649D8559E",
+                "name": "Compliance Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613734,
+                "emsiId": "KS1205767R47RZSQ9RHY",
+                "name": "Mergers And Acquisitions",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613735,
+                "emsiId": "KS122CJ6ZVCCTTDGYB6B",
+                "name": "Contract Negotiation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613737,
+                "emsiId": "KS122F377FV66S5LZS9T",
+                "name": "Corporate Governance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613738,
+                "emsiId": "BGSA0A7A10E4C461188F",
+                "name": "Compliance Reporting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613741,
+                "emsiId": "KS1205767R47RZSQ9RHY",
+                "name": "Mergers And Acquisitions",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613742,
+                "emsiId": "KS121Y26RYW0BS9CNB86",
+                "name": "Claims Processing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613743,
+                "emsiId": "KS128CH796DYDTGSFMWV",
+                "name": "Resource Acquisition",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613744,
+                "emsiId": "KS1257G62V8N1RFHMNLL",
+                "name": "Intellectual Property",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614691,
+                "emsiId": "ESA0BC4AF23ECB8485DD",
+                "name": "Compliance Risk",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614692,
+                "emsiId": "KS126X663B21NB77ZHSP",
+                "name": "Negotiation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614693,
+                "emsiId": "KS122CJ6ZVCCTTDGYB6B",
+                "name": "Contract Negotiation",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614694,
+                "emsiId": "KS122F377FV66S5LZS9T",
+                "name": "Corporate Governance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614695,
+                "emsiId": "KS124G66QWSYM012SWS5",
+                "name": "Governance",
+                "lastUsed": "2018-01-01",
+                "numberOfMonths": 144,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614696,
+                "emsiId": "KS1218W78FGVPVP2KXPX",
+                "name": "Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614699,
+                "emsiId": "KS1257G62V8N1RFHMNLL",
+                "name": "Intellectual Property",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614701,
+                "emsiId": "ESF7DC135E43D8F6F4FF",
+                "name": "Legal Risk",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 174,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614020,
+                "emsiId": "ES7C0F9A9312F961F49F",
+                "name": "Compliance Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613736,
+                "emsiId": "KS1257G6QSJKF4QHGK1R",
+                "name": "Intellectual Property Laws",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613740,
+                "emsiId": "KS125ZB6BWF5RY40BH1B",
+                "name": "Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613746,
+                "emsiId": "KS127XK6CTBSY4QZSBWZ",
+                "name": "Political Sciences",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614697,
+                "emsiId": "KS125ZB6BWF5RY40BH1B",
+                "name": "Risk Management",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614698,
+                "emsiId": "KS1226L6XYT1N27WRYJM",
+                "name": "Regulatory Compliance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614700,
+                "emsiId": "ES9611D7E1237633BD9A",
+                "name": "Legal Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614702,
+                "emsiId": "KS1257G6QSJKF4QHGK1R",
+                "name": "Intellectual Property Laws",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614703,
+                "emsiId": "KS127XK6CTBSY4QZSBWZ",
+                "name": "Political Sciences",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Experienced legal executive with 20+ years of expertise in corporate governance, compliance, and risk management. Specializing in legal strategy for high-growth startups and multinational corporations.",
+        "websites": [
+            "linkedin.com/in/danielcarter"
+        ],
+        "linkedin": "linkedin.com/in/danielcarter",
+        "totalYearsExperience": 13,
+        "profession": "General Counsel & Chief Compliance Officer",
+        "workExperience": [
+            {
+                "id": 180438842,
+                "jobTitle": "Chief Legal Officer",
+                "organization": "SecureLaw Inc.",
+                "location": null,
+                "dates": {
+                    "startDate": "2018-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 87,
+                    "isCurrent": true,
+                    "rawText": "2018 - Present"
+                },
+                "jobDescription": "\u2022 Led regulatory compliance initiatives, reducing legal risk by 50%. \n\u2022 Managed M&A legal processes for $200M+ in acquisitions. \n\u2022 Developed IP protection strategies, securing 10+ patents. ",
+                "occupation": {
+                    "jobTitle": "Chief Legal Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180438843,
+                "jobTitle": "General Counsel",
+                "organization": null,
+                "location": null,
+                "dates": {
+                    "startDate": "2012-01-01",
+                    "endDate": "2018-01-01",
+                    "monthsInPosition": 72,
+                    "isCurrent": false,
+                    "rawText": "2012 - 2018"
+                },
+                "jobDescription": "\u2022 Negotiated high-stakes contracts, saving the company $30M. \n\u2022 Established corporate governance policies, ensuring SEC compliance. ",
+                "occupation": {
+                    "jobTitle": "General Counsel",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Daniel Carter \n\nEmail: danielcarter@email.com Phone: +1-654-789-3210 LinkedIn: linkedin.com/in/danielcarter \nSummary: \nExperienced legal executive with 20+ years of expertise in corporate governance, compliance, and risk management. Specializing in legal strategy for high-growth startups and multinational corporations. \nWork Experience: \nChief Legal Officer | SecureLaw Inc. | 2018 - Present \n- Led regulatory compliance initiatives, reducing legal risk by 50%. \n- Managed M&A legal processes for $200M+ in acquisitions. \n- Developed IP protection strategies, securing 10+ patents. \nGeneral Counsel | LegalPath | 2012 - 2018 \n- Negotiated high-stakes contracts, saving the company $30M. \n- Established corporate governance policies, ensuring SEC compliance. \nSkills: \nCorporate Governance, Compliance & Risk Management, Mergers & Acquisitions, Contract Negotiation, Intellectual Property Law \nEducation: \nJuris Doctor (JD), Yale Law School B.A. in Political Science, Princeton University ",
+        "redactedText": "****** ****** Email: ********************** Phone: *************** LinkedIn: ****************************\nSummary: Experienced legal executive with 20+ years of expertise in corporate governance, compliance, and risk management. Specializing in legal strategy for high-growth startups and multinational corporations.\nWork Experience: Chief Legal Officer | SecureLaw Inc. | **** * Present - Led regulatory compliance initiatives, reducing legal risk by 50%. - Managed *&A legal processes for $200M+ in acquisitions. - Developed IP protection strategies, securing 10+ patents. General Counsel | LegalPath | 2012 - 2018 - Negotiated high-stakes contracts, saving the company $30M. - Established corporate governance policies, ensuring SEC compliance.\nSkills: Corporate Governance, Compliance & Risk Management, Mergers & Acquisitions, Contract Negotiation, Intellectual Property Law\nEducation: Juris Doctor (JD), Yale Law School B.A. in Political Science, Princeton University"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}

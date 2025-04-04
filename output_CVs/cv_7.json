@@ -1,0 +1,501 @@
+{
+    "data": {
+        "certifications": [],
+        "dateOfBirth": null,
+        "education": [
+            {
+                "id": 89261677,
+                "organization": "Carnegie Mellon University",
+                "accreditation": {
+                    "education": "Doctor of Philosophy",
+                    "educationLevel": "doctoral",
+                    "inputStr": "Doctor of Philosophy",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            },
+            {
+                "id": 89261678,
+                "organization": "University of Chicago",
+                "accreditation": {
+                    "education": "Bachelor of Science",
+                    "educationLevel": "bachelors",
+                    "inputStr": "Bachelor of Science",
+                    "matchStr": ""
+                },
+                "grade": null,
+                "location": null,
+                "dates": null
+            }
+        ],
+        "emails": [
+            "sophiamartinez@email.com"
+        ],
+        "location": null,
+        "name": {
+            "raw": "Sophia Martinez",
+            "last": "Martinez",
+            "first": "Sophia",
+            "title": "",
+            "middle": ""
+        },
+        "objective": "",
+        "phoneNumbers": [
+            "+12345678912"
+        ],
+        "phoneNumberDetails": [
+            {
+                "rawText": "+12345678912",
+                "formattedNumber": "+1 234-567-8912",
+                "countryCode": "US",
+                "internationalCountryCode": 1,
+                "nationalNumber": "(234) 567-8912"
+            }
+        ],
+        "publications": [],
+        "referees": [],
+        "sections": [
+            {
+                "sectionType": "PersonalDetails",
+                "pageIndex": 0,
+                "text": "Sophia Martinez \n\nEmail: sophiamartinez@email.com Phone: +1-234-567-8912 LinkedIn: linkedin.com/in/sophiamartinez ",
+                "bbox": [
+                    32.102,
+                    35.528015,
+                    372.838,
+                    147.81201
+                ]
+            },
+            {
+                "sectionType": "Summary",
+                "pageIndex": 0,
+                "text": "Summary: \nData-driven executive with 18+ years of experience in data strategy, analytics, and AI-driven decision-making. Passionate about transforming businesses through data insights. ",
+                "bbox": [
+                    31.61,
+                    178.14197,
+                    563.3179,
+                    247.17804
+                ]
+            },
+            {
+                "sectionType": "WorkExperience",
+                "pageIndex": 0,
+                "text": "Work Experience: \nChief Data Officer | DataDrive Inc. | 2019 - Present \n- Developed enterprise-wide data governance frameworks, enhancing data security. \n- Leveraged AI and predictive analytics, increasing revenue forecasting accuracy by 50%. \n- Built a data science team, delivering insights that improved operational efficiency. \nVP of Analytics | InsightX | 2014 - 2019 \n- Designed customer analytics models, driving a 20% increase in sales conversions. \n- Integrated big data solutions, reducing operational costs by 25%. ",
+                "bbox": [
+                    31.414001,
+                    277.51996,
+                    465.53598,
+                    463.509
+                ]
+            },
+            {
+                "sectionType": "Skills/Interests/Languages",
+                "pageIndex": 0,
+                "text": "Skills: \nData Strategy & Governance, Predictive Analytics & AI, Business Intelligence, Big Data & Cloud Solutions, Data Security & Compliance ",
+                "bbox": [
+                    31.736,
+                    489.95203,
+                    563.41675,
+                    558.916
+                ]
+            },
+            {
+                "sectionType": "Education",
+                "pageIndex": 0,
+                "text": "Education: \nPh.D. in Data Science, Carnegie Mellon University B.S. in Statistics, University of Chicago ",
+                "bbox": [
+                    32.078,
+                    589.33,
+                    298.47797,
+                    658.198
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "id": 1028613675,
+                "emsiId": "KS122PZ6PCZ9JYT0Y5WH",
+                "name": "Data Security",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613676,
+                "emsiId": "ESC32A252A85F151959C",
+                "name": "Data Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613677,
+                "emsiId": "KS124G66QWSYM012SWS5",
+                "name": "Governance",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613679,
+                "emsiId": "KS120BV6SR75RBKQH0G3",
+                "name": "Artificial Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613681,
+                "emsiId": "KS1210269P78D7GH8LWY",
+                "name": "Big Data",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613683,
+                "emsiId": "BGSA0A7A10E4C461188F",
+                "name": "Compliance Reporting",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613684,
+                "emsiId": "KS7LO8P3MXB93R3C9RWL",
+                "name": "Data Science",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613685,
+                "emsiId": "ESC32A252A85F151959C",
+                "name": "Data Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613686,
+                "emsiId": "KS120GV5ZXR64CJLL1J4",
+                "name": "Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613687,
+                "emsiId": "KS120BV6SR75RBKQH0G3",
+                "name": "Artificial Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613688,
+                "emsiId": "KS121W46CJXQ5ZQ506MS",
+                "name": "Decision Making",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613689,
+                "emsiId": "KS120GV5ZXR64CJLL1J4",
+                "name": "Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613691,
+                "emsiId": "KS122PZ6PCZ9JYT0Y5WH",
+                "name": "Data Security",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613692,
+                "emsiId": "KS120BV6SR75RBKQH0G3",
+                "name": "Artificial Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613697,
+                "emsiId": "KS123X777H5WFNXQ6BPM",
+                "name": "Sales",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613975,
+                "emsiId": "KS123X777H5WFNXQ6BPM",
+                "name": "Sales",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 120,
+                "type": "common_skill",
+                "sources": [
+                    {
+                        "section": "WorkExperience",
+                        "position": 3,
+                        "workExperienceId": null
+                    },
+                    {
+                        "section": "WorkExperience",
+                        "position": 1,
+                        "workExperienceId": 180438823
+                    }
+                ]
+            },
+            {
+                "id": 1028614556,
+                "emsiId": "KS122PZ6PCZ9JYT0Y5WH",
+                "name": "Data Security",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614557,
+                "emsiId": "ESC32A252A85F151959C",
+                "name": "Data Strategy",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614558,
+                "emsiId": "KS120GV5ZXR64CJLL1J4",
+                "name": "Analytics",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 270,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614561,
+                "emsiId": "KS1210269P78D7GH8LWY",
+                "name": "Big Data",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 120,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614562,
+                "emsiId": "KS7LO8P3MXB93R3C9RWL",
+                "name": "Data Science",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614564,
+                "emsiId": "KS124G66QWSYM012SWS5",
+                "name": "Governance",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614565,
+                "emsiId": "KS1241P6PXRCKTDSWHTV",
+                "name": "Forecasting",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "common_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614566,
+                "emsiId": "ES7F774162E2780F8ADB",
+                "name": "Revenue Forecasting",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613678,
+                "emsiId": "KS128006SHHBNZBR2DQZ",
+                "name": "Predictive Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613680,
+                "emsiId": "KS120ZX7019J4V8DHBTM",
+                "name": "Business Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613682,
+                "emsiId": "KS1220H6CP1BQGH9STNK",
+                "name": "Cloud Computing",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613693,
+                "emsiId": "KS128006SHHBNZBR2DQZ",
+                "name": "Predictive Analytics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028613698,
+                "emsiId": "KS440Y975RD841M02V3S",
+                "name": "Statistics",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614559,
+                "emsiId": "KS128006SHHBNZBR2DQZ",
+                "name": "Predictive Analytics",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614560,
+                "emsiId": "KS120ZX7019J4V8DHBTM",
+                "name": "Business Intelligence",
+                "lastUsed": null,
+                "numberOfMonths": null,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614563,
+                "emsiId": "KS122P378DGNVX4NKQKN",
+                "name": "Data Governance",
+                "lastUsed": "2025-04-03",
+                "numberOfMonths": 150,
+                "type": "specialized_skill",
+                "sources": []
+            },
+            {
+                "id": 1028614567,
+                "emsiId": "KS122LN62P1F4BSYRJBG",
+                "name": "Customer Analytics",
+                "lastUsed": "2019-01-01",
+                "numberOfMonths": 120,
+                "type": "specialized_skill",
+                "sources": []
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "summary": "Data-driven executive with 18+ years of experience in data strategy, analytics, and AI-driven decision-making. Passionate about transforming businesses through data insights.",
+        "websites": [
+            "linkedin.com/in/sophiamartinez"
+        ],
+        "linkedin": "linkedin.com/in/sophiamartinez",
+        "totalYearsExperience": 11,
+        "profession": "Chief Data Officer",
+        "workExperience": [
+            {
+                "id": 180438822,
+                "jobTitle": "Chief Data Officer",
+                "organization": "DataDrive, Inc",
+                "location": null,
+                "dates": {
+                    "startDate": "2019-01-01",
+                    "endDate": "2025-04-03",
+                    "monthsInPosition": 75,
+                    "isCurrent": true,
+                    "rawText": "2019 - Present"
+                },
+                "jobDescription": "\u2022 Developed enterprise-wide data governance frameworks, enhancing data security. \n\u2022 Leveraged AI and predictive analytics, increasing revenue forecasting accuracy by 50%. \n\u2022 Built a data science team, delivering insights that improved operational efficiency. ",
+                "occupation": {
+                    "jobTitle": "Chief Data Officer",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            },
+            {
+                "id": 180438823,
+                "jobTitle": "VP of Analytics",
+                "organization": "InsightX",
+                "location": null,
+                "dates": {
+                    "startDate": "2014-01-01",
+                    "endDate": "2019-01-01",
+                    "monthsInPosition": 60,
+                    "isCurrent": false,
+                    "rawText": "2014 - 2019"
+                },
+                "jobDescription": "\u2022 Designed customer analytics models, driving a 20% increase in sales conversions. \n\u2022 Integrated big data solutions, reducing operational costs by 25%. ",
+                "occupation": {
+                    "jobTitle": "VP of Analytics",
+                    "jobTitleNormalized": null,
+                    "classification": null,
+                    "managementLevel": null,
+                    "emsiId": null
+                }
+            }
+        ],
+        "headShot": null,
+        "isResumeProbability": 99,
+        "rawText": "Sophia Martinez \n\nEmail: sophiamartinez@email.com Phone: +1-234-567-8912 LinkedIn: linkedin.com/in/sophiamartinez \nSummary: \nData-driven executive with 18+ years of experience in data strategy, analytics, and AI-driven decision-making. Passionate about transforming businesses through data insights. \nWork Experience: \nChief Data Officer | DataDrive Inc. | 2019 - Present \n- Developed enterprise-wide data governance frameworks, enhancing data security. \n- Leveraged AI and predictive analytics, increasing revenue forecasting accuracy by 50%. \n- Built a data science team, delivering insights that improved operational efficiency. \nVP of Analytics | InsightX | 2014 - 2019 \n- Designed customer analytics models, driving a 20% increase in sales conversions. \n- Integrated big data solutions, reducing operational costs by 25%. \nSkills: \nData Strategy & Governance, Predictive Analytics & AI, Business Intelligence, Big Data & Cloud Solutions, Data Security & Compliance \nEducation: \nPh.D. in Data Science, Carnegie Mellon University B.S. in Statistics, University of Chicago ",
+        "redactedText": "****** ******** Email: ************************ Phone: *************** LinkedIn: ******************************\nSummary: Data-driven executive with 18+ years of experience in data strategy, analytics, and AI-driven decision-making. Passionate about transforming businesses through data insights.\nWork Experience: Chief Data Officer | DataDrive Inc. | **** * Present - Developed enterprise-wide data governance frameworks, enhancing data security. - Leveraged AI and predictive analytics, increasing revenue forecasting accuracy by 50%. - Built a data science team, delivering insights that improved operational efficiency. VP of Analytics | InsightX | 2014 - 2019 - Designed customer analytics models, driving a 20% increase in sales conversions. - Integrated big data solutions, reducing operational costs by 25%.\nSkills: Data Strategy & Governance, Predictive Analytics & AI, Business Intelligence, Big Data & Cloud Solutions, Data Security & Compliance\nEducation: ***** in Data Science, Carnegie Mellon University B.S. in Statistics, University of Chicago"
+    },
+    "enrichment parameters": {
+        "Employment Pattern & Progression": "",
+        "Company Type & Sector": "",
+        "Education Quality & Ranking": "",
+        "Skill Demand & Market Relevance": "",
+        "Leadership Experience": "",
+        "Budget & Project Management": "",
+        "International Experience & Mobility": "",
+        "Soft Skills from Sales Calls": "",
+        "Personality & Behavioral Traits": "",
+        "Future Career Goals (Sales-Inferred)": "",
+        "Salary Expectations (Sales-Inferred)": "",
+        "JD Enrichment with Implied Preferences": "",
+        "Cultural Fit Indicators": ""
+    },
+    "functional skills": ""
+}
