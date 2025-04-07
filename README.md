@@ -1,4 +1,6 @@
-*Folder Structure*
+* *All relevant scripts can be found in step_2.ipynb*
+
+# *Folder Structure*
 
 ## sample CVs
 
