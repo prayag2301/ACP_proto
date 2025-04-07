@@ -1,0 +1,61 @@
+{
+  "name": "John Doe",
+  "email": "johndoe@email.com",
+  "phone": "+1-234-567-8901",
+  "country": "",
+  "city": "",
+  "summary": "Seasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth.",
+  "skills": [
+    {
+      "specialized skill": "Financial Strategy & Planning, Risk Management, Mergers & Acquisitions, Venture Capital & Fundraising, Budgeting & Forecasting",
+      "common skill": ""
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Financial Officer",
+      "company": "XYZ Tech Solutions",
+      "start_date": "2018",
+      "end_date": "Present",
+      "description": "Spearheaded fundraising efforts, securing $50M in venture capital funding. Optimized financial structures, reducing operational costs by 30%. Led M&A initiatives, successfully acquiring and integrating 3 companies."
+    },
+    {
+      "job_title": "VP of Finance",
+      "company": "ABC Corp",
+      "start_date": "2012",
+      "end_date": "2018",
+      "description": "Managed budgets exceeding $500M, ensuring fiscal responsibility. Implemented ERP solutions, improving financial reporting accuracy by 40%."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Finance",
+      "institution": "Harvard Business School",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Accounting",
+      "institution": "University of California, Berkeley",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}
