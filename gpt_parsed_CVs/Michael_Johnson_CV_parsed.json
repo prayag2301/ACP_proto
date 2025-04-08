@@ -1,0 +1,61 @@
+{
+  "name": "Michael Johnson",
+  "email": "michaeljohnson@email.com",
+  "phone": "+1-456-789-0123",
+  "country": "",
+  "city": "",
+  "summary": "Strategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability.",
+  "skills": [
+    {
+      "specialized skill": "Supply Chain Management, Process Optimization, Agile Operations, Team & Workforce Scaling, International Expansion",
+      "common skill": ""
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Operating Officer",
+      "company": "ScaleUp Inc.",
+      "start_date": "2020",
+      "end_date": "Present",
+      "description": "Reduced supply chain costs by 25% through process automation. Implemented agile operations, reducing product delivery time by 40%. Scaled workforce from 100 to 500 employees, ensuring seamless growth."
+    },
+    {
+      "job_title": "VP of Operations",
+      "company": "GrowthTech",
+      "start_date": "2013",
+      "end_date": "2020",
+      "description": "Developed data-driven KPIs, improving operational efficiency by 30%. Led international expansion into 5 new markets."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Operations Management",
+      "institution": "Wharton School",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Industrial Engineering",
+      "institution": "Georgia Tech",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

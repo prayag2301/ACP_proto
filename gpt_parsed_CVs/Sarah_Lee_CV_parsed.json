@@ -1,0 +1,61 @@
+{
+  "name": "Sarah Lee",
+  "email": "sarahlee@email.com",
+  "phone": "+1-321-654-9870",
+  "country": "",
+  "city": "",
+  "summary": "Marketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries.",
+  "skills": [
+    {
+      "specialized skill": "Brand Strategy, Digital Marketing, Demand Generation, Customer Acquisition, Influencer & Partnership Marketing",
+      "common skill": ""
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Marketing Officer",
+      "company": "BrandBoost",
+      "start_date": "2018",
+      "end_date": "Present",
+      "description": "Launched viral campaigns that increased brand engagement by 300%. Optimized customer acquisition, reducing cost per lead by 40%. Scaled marketing team from 10 to 50 professionals."
+    },
+    {
+      "job_title": "VP of Marketing",
+      "company": "DigitalX",
+      "start_date": "2011",
+      "end_date": "2018",
+      "description": "Led rebranding efforts, increasing market share by 20%. Established influencer marketing partnerships, driving $10M in new revenue."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Marketing",
+      "institution": "Kellogg School of Management",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.A. in Communications",
+      "institution": "UCLA",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

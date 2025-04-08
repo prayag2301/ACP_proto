@@ -1,0 +1,61 @@
+{
+  "name": "Kevin Adams",
+  "email": "kevinadams@email.com",
+  "phone": "+1-345-678-9012",
+  "country": "",
+  "city": "",
+  "summary": "Engineering leader with 19+ years of experience in R&D, product development, and hardware/software engineering. Passionate about building scalable and innovative engineering solutions.",
+  "skills": [
+    {
+      "specialized skill": "Product Development & R&D, IoT & Automation Engineering, Manufacturing Process Optimization",
+      "common skill": "Agile & Lean Engineering Practices, Cross-Functional Leadership"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Engineering Officer",
+      "company": "BuildTech Solutions",
+      "start_date": "2018",
+      "end_date": "Present",
+      "description": "Led the development of cutting-edge IoT and automation solutions. Scaled engineering teams from 50 to 300+ professionals across multiple sites. Streamlined product development lifecycles, reducing time-to-market by 40%."
+    },
+    {
+      "job_title": "VP of Engineering",
+      "company": "NextGen Tech",
+      "start_date": "2012",
+      "end_date": "2018",
+      "description": "Spearheaded the design and launch of flagship hardware/software products. Improved manufacturing processes, lowering production costs by 30%."
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Mechanical Engineering",
+      "institution": "Stanford University",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Electrical Engineering",
+      "institution": "MIT",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

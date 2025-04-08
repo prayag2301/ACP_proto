@@ -13,11 +13,11 @@ contains all sample CVs parsed through Affinda resume parser(legacy) and stored 
 
 ## gpt parsed CVs
 
-contains John Doe sample CV parsed through openAI api (GPT-4) and stored as json 
+contains all sample CVs parsed through openAI api (GPT-4) and stored as json 
  
 ## gpt enriched CVs
 
-contains test results for enrichment parameters using DeepSeek(DeepSeek-chat) and openAI(o3-mini) on John Doe (cv_0) and the complete enriched cv for John Doe
+contains test results for enrichment parameters using DeepSeek(DeepSeek-chat) and openAI(o3-mini) on gpt parsed CVs stored as json
 
 ## to do
 -> Flagging

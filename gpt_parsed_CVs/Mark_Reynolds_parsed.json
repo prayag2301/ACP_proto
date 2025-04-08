@@ -1,0 +1,61 @@
+{
+  "name": "Mark Reynolds",
+  "email": "markreynolds@email.com",
+  "phone": "+1-789-456-1230",
+  "country": "",
+  "city": "",
+  "summary": "Customer success leader with 16+ years of experience in client relationship management, customer retention, and service innovation. Adept at driving customer satisfaction and revenue growth.",
+  "skills": [
+    {
+      "specialized skill": "Customer Retention Strategies, Client Relationship Management, Support Operations & Service Innovation, Customer Success Analytics",
+      "common skill": "Team Leadership"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Customer Officer",
+      "company": "ClientFirst Solutions",
+      "start_date": "2020",
+      "end_date": "Present",
+      "description": "Increased customer retention by 50% through loyalty programs. Developed self-service solutions, reducing support costs by 30%. Led a customer success team of 150+ professionals across multiple regions."
+    },
+    {
+      "job_title": "VP of Customer Experience",
+      "company": "EngageX",
+      "start_date": "2013",
+      "end_date": "2020",
+      "description": "Established data-driven customer satisfaction KPIs, improving NPS by 40%. Built a scalable support framework, handling a 200% increase in customer base."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Customer Experience Management",
+      "institution": "Northwestern University",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Business Administration",
+      "institution": "University of Texas at Austin",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

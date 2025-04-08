@@ -1,0 +1,61 @@
+{
+  "name": "Sophia Martinez",
+  "email": "sophiamartinez@email.com",
+  "phone": "+1-234-567-8912",
+  "country": "",
+  "city": "",
+  "summary": "Data-driven executive with 18+ years of experience in data strategy, analytics, and AI-driven decision-making. Passionate about transforming businesses through data insights.",
+  "skills": [
+    {
+      "specialized skill": "Data Strategy & Governance, Predictive Analytics & AI, Data Security & Compliance",
+      "common skill": "Business Intelligence, Big Data & Cloud Solutions"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Data Officer",
+      "company": "DataDrive Inc.",
+      "start_date": "2019",
+      "end_date": "Present",
+      "description": "Developed enterprise-wide data governance frameworks, enhancing data security. Leveraged AI and predictive analytics, increasing revenue forecasting accuracy by 50%. Built a data science team, delivering insights that improved operational efficiency."
+    },
+    {
+      "job_title": "VP of Analytics",
+      "company": "InsightX",
+      "start_date": "2014",
+      "end_date": "2019",
+      "description": "Designed customer analytics models, driving a 20% increase in sales conversions. Integrated big data solutions, reducing operational costs by 25%."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Data Science",
+      "institution": "Carnegie Mellon University",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Statistics",
+      "institution": "University of Chicago",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

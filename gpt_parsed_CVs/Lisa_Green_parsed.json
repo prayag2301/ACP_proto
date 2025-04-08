@@ -1,0 +1,61 @@
+{
+  "name": "Lisa Green",
+  "email": "lisagreen@email.com",
+  "phone": "+1-987-123-4567",
+  "country": "",
+  "city": "",
+  "summary": "HR executive with 17+ years of experience in talent acquisition, leadership development, and company culture transformation. Passionate about building high-performing teams and fostering workplace diversity.",
+  "skills": [
+    {
+      "specialized skill": "Talent Acquisition & Management, Leadership Development, Organizational Culture & DEI, HR Technology & Automation, Employee Engagement Strategies",
+      "common skill": ""
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Human Resources Officer",
+      "company": "PeopleFirst Corp",
+      "start_date": "2019",
+      "end_date": "Present",
+      "description": "Implemented a leadership development program, increasing internal promotions by 40%. Led DEI initiatives, improving workforce diversity by 35%. Spearheaded HR digital transformation, reducing administrative overhead by 25%."
+    },
+    {
+      "job_title": "VP of HR",
+      "company": "TalentEdge",
+      "start_date": "2013",
+      "end_date": "2019",
+      "description": "Designed performance management frameworks, boosting employee productivity. Developed and executed retention strategies, reducing turnover by 30%."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Human Resource Management",
+      "institution": "Cornell University",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.A. in Psychology",
+      "institution": "University of Michigan",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

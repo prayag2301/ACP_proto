@@ -1,0 +1,61 @@
+{
+  "name": "Jane Smith",
+  "email": "janesmith@email.com",
+  "phone": "+1-987-654-3210",
+  "country": "",
+  "city": "",
+  "summary": "Technology leader with 20+ years of experience in software development, cloud computing, and AI-driven innovations. Proven expertise in scaling engineering teams and driving digital transformation.",
+  "skills": [
+    {
+      "specialized skill": "Software Development, Cloud Computing & SaaS, AI & Machine Learning, Digital Transformation",
+      "common skill": "Team Leadership"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Technology Officer",
+      "company": "InnovateX",
+      "start_date": "2019",
+      "end_date": "Present",
+      "description": "Built a scalable cloud-based SaaS platform, increasing revenue by 200%. Led a team of 200+ engineers across multiple global locations. Championed AI adoption, enhancing product efficiency by 50%."
+    },
+    {
+      "job_title": "VP of Engineering",
+      "company": "TechCorp",
+      "start_date": "2014",
+      "end_date": "2019",
+      "description": "Managed a $100M R&D budget, accelerating product innovation. Transitioned the company from monolithic architecture to microservices."
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Computer Science",
+      "institution": "MIT",
+      "start_year": "",
+      "end_year": ""
+    },
+    {
+      "degree": "B.S. in Information Technology",
+      "institution": "Stanford University",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Personality & Behavioral Traits": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}
