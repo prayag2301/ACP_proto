@@ -1,4 +1,5 @@
 * *All relevant scripts can be found in step_2.ipynb*
+* Create a .env file in the root folder to include openAI_api_key and API_KEY(Deepseek)
 
 # *Folder Structure*
 
