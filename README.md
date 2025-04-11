@@ -1,4 +1,4 @@
-**All relevant scripts :
+* All relevant scripts :
     1. The entire workflow can be found in finalWorkflow.ipynb
     2. the unit tests for CVs can be found in step_2.ipynb
     
