@@ -1,0 +1,44 @@
+{
+  "country": "USA",
+  "city": "San Francisco",
+  "summary": "NeuralWorks AI is a rapidly growing AI research and development startup focused on building state-of-the-art machine learning solutions. Our team is scaling fast, and we need a dynamic CHRO to build and lead our talent strategy.",
+  "skills": [
+    {
+      "specialized skill": "HR leadership, DEI initiatives, culture transformation, HR technology and automation tools",
+      "common skill": "Leadership, Strategy Development, Talent Acquisition"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Human Resources Officer",
+      "company": "NeuralWorks AI",
+      "start_date": "",
+      "end_date": "",
+      "description": "Develop and implement a talent acquisition strategy to attract top AI engineers and researchers. Drive DEI initiatives to build an inclusive and diverse workplace. Oversee leadership development and succession planning."
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

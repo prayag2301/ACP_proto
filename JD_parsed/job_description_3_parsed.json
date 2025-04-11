@@ -1,0 +1,44 @@
+{
+  "country": "USA",
+  "city": "Boston, MA",
+  "summary": "MediCare Group is a national leader in healthcare services and innovation. We are seeking a legal expert to oversee compliance, M&A, and regulatory policies.",
+  "skills": [
+    {
+      "specialized skill": "Legal aspects of M&A transactions, Compliance with HIPAA and FDA regulations, Risk mitigation",
+      "common skill": "Corporate legal experience"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "General Counsel",
+      "company": "MediCare Group",
+      "start_date": "",
+      "end_date": "",
+      "description": "Manage legal aspects of M&A transactions. Ensure compliance with HIPAA and FDA regulations. Lead risk mitigation efforts."
+    }
+  ],
+  "education": [
+    {
+      "degree": "JD",
+      "institution": "Top-tier law school",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

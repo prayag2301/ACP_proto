@@ -1,0 +1,44 @@
+{
+  "country": "USA",
+  "city": "Chicago, IL",
+  "summary": "We are a Fortune 500 logistics company looking for a CDO to drive digital transformation with AI-powered analytics.",
+  "skills": [
+    {
+      "specialized skill": "Develop data governance frameworks, Implement AI models for predictive supply chain analytics",
+      "common skill": "Leadership"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Chief Data Officer (CDO)",
+      "company": "TransGlobal Freight",
+      "start_date": "",
+      "end_date": "",
+      "description": "Drive digital transformation with AI-powered analytics."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Data Science",
+      "institution": "",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "country": "USA",
+    "city": "New York, NY",
+    "summary": "GlobalMart is a leading retail giant with over 100,000 employees worldwide. We are looking for a strategic HR leader to shape our culture and talent strategy.",
+    "skills": [
+        {
+            "specialized skill": "HR leadership, large-scale workforce management",
+            "common skill": "Develop leadership pipelines, Implement HR analytics, Create retention strategies"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "VP of Talent & Culture",
+            "company": "GlobalMart Inc.",
+            "start_date": "",
+            "end_date": "",
+            "description": "Develop leadership pipelines to ensure strong internal promotions. Implement HR analytics to improve workforce planning. Create retention strategies that reduce turnover."
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "",
+            "start_year": "",
+            "end_year": ""
+        }
+    ],
+    "enrichment parameters": [
+        {
+            "Employment Pattern & Progression": "Candidate should have a progressive career in HR, preferably in large-scale organizations. Experience in leadership roles is a must.",
+            "Company Type & Sector": "GlobalMart is a large-scale retail company operating globally.",
+            "Education Quality & Ranking": "Candidate should have a degree from a top-tier institution, preferably in Human Resources, Business Administration or related fields.",
+            "Skill Demand & Market Relevance": "HR leadership and workforce management are highly relevant in the current market, especially for large organizations.",
+            "Leadership Experience": "Candidate should have significant leadership experience, particularly in HR roles.",
+            "Budget & Project Management": "Candidate should have experience in managing large budgets and HR projects.",
+            "International Experience & Mobility": "Given the global nature of the company, international experience and willingness to travel are preferred.",
+            "Soft Skills from Sales Calls": "Excellent communication, negotiation, and persuasion skills are required.",
+            "Personality & Behavioral Traits": "Candidate should be strategic, innovative, and have a strong ability to influence and lead.",
+            "Future Career Goals (Sales-Inferred)": "Potential career goals could include CHRO or other C-suite roles in large organizations.",
+            "Salary Expectations (Sales-Inferred)": "Given the seniority of the role, a competitive salary package can be expected.",
+            "Cultural Fit Indicators": "Candidate should align with the company's values and culture, and have a proven track record of shaping and influencing company culture."
+        }
+    ]
+}

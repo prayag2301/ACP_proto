@@ -1,0 +1,61 @@
+{
+    "name": "John Doe",
+    "email": "johndoe@email.com",
+    "phone": "+1-234-567-8901",
+    "country": "",
+    "city": "",
+    "summary": "Seasoned finance executive with 18+ years of experience in financial strategy, risk management, and capital raising. Expertise in scaling startups and optimizing financial operations to drive profitability and growth.",
+    "skills": [
+        {
+            "specialized skill": "Financial Strategy & Planning, Risk Management, Mergers & Acquisitions, Venture Capital & Fundraising, Budgeting & Forecasting",
+            "common skill": ""
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Chief Financial Officer",
+            "company": "XYZ Tech Solutions",
+            "start_date": "2018",
+            "end_date": "Present",
+            "description": "Spearheaded fundraising efforts, securing $50M in venture capital funding. Optimized financial structures, reducing operational costs by 30%. Led M&A initiatives, successfully acquiring and integrating 3 companies."
+        },
+        {
+            "job_title": "VP of Finance",
+            "company": "ABC Corp",
+            "start_date": "2012",
+            "end_date": "2018",
+            "description": "Managed budgets exceeding $500M, ensuring fiscal responsibility. Implemented ERP solutions, improving financial reporting accuracy by 40%."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Finance",
+            "institution": "Harvard Business School",
+            "start_year": "",
+            "end_year": ""
+        },
+        {
+            "degree": "B.S. in Accounting",
+            "institution": "University of California, Berkeley",
+            "start_year": "",
+            "end_year": ""
+        }
+    ],
+    "enrichment parameters": [
+        {
+            "Employment Pattern & Progression": "Progressed from VP of Finance to CFO, demonstrating career growth and advancement.",
+            "Company Type & Sector": "Worked in tech and corporate sectors, specifically in finance roles.",
+            "Education Quality & Ranking": "Graduated from top-tier institutions, Harvard Business School and University of California, Berkeley.",
+            "Skill Demand & Market Relevance": "Possesses high-demand skills in financial strategy, risk management, and capital raising.",
+            "Leadership Experience": "Held leadership roles as CFO and VP of Finance, managing large budgets and leading strategic initiatives.",
+            "Budget & Project Management": "Managed budgets exceeding $500M and led projects such as M&A and fundraising.",
+            "International Experience & Mobility": "Not explicitly mentioned in the CV.",
+            "Soft Skills from Sales Calls": "Not explicitly mentioned in the CV.",
+            "Personality & Behavioral Traits": "Demonstrates high conscientiousness and openness, moderate extraversion, and low neuroticism.",
+            "Future Career Goals (Sales-Inferred)": "Potential interest in higher executive roles or entrepreneurship given experience in scaling startups.",
+            "Salary Expectations (Sales-Inferred)": "Given the seniority of roles and experience, likely to have high salary expectations.",
+            "JD Enrichment with Implied Preferences": "Prefers roles with strategic influence, financial management, and opportunities for growth.",
+            "Cultural Fit Indicators": "Likely to fit in cultures that value strategic thinking, fiscal responsibility, and growth."
+        }
+    ]
+}

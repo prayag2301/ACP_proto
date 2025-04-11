@@ -1,0 +1,44 @@
+{
+  "country": "USA",
+  "city": "New York, NY",
+  "summary": "GlobalMart is a leading retail giant with over 100,000 employees worldwide. We are looking for a strategic HR leader to shape our culture and talent strategy.",
+  "skills": [
+    {
+      "specialized skill": "HR leadership, large-scale workforce management",
+      "common skill": "Develop leadership pipelines, Implement HR analytics, Create retention strategies"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "VP of Talent & Culture",
+      "company": "GlobalMart Inc.",
+      "start_date": "",
+      "end_date": "",
+      "description": "Develop leadership pipelines to ensure strong internal promotions. Implement HR analytics to improve workforce planning. Create retention strategies that reduce turnover."
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "start_year": "",
+      "end_year": ""
+    }
+  ],
+  "enrichment parameters": [
+    {
+      "Employment Pattern & Progression": "",
+      "Company Type & Sector": "",
+      "Education Quality & Ranking": "",
+      "Skill Demand & Market Relevance": "",
+      "Leadership Experience": "",
+      "Budget & Project Management": "",
+      "International Experience & Mobility": "",
+      "Soft Skills from Sales Calls": "",
+      "Future Career Goals (Sales-Inferred)": "",
+      "Salary Expectations (Sales-Inferred)": "",
+      "JD Enrichment with Implied Preferences": "",
+      "Cultural Fit Indicators": ""
+    }
+  ]
+}

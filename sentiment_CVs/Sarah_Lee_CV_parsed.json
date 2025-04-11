@@ -1,0 +1,67 @@
+{
+    "name": "Sarah Lee",
+    "email": "sarahlee@email.com",
+    "phone": "+1-321-654-9870",
+    "country": "",
+    "city": "",
+    "summary": "Marketing executive with 16+ years of experience in brand strategy, digital marketing, and demand generation. Proven ability to drive customer acquisition and brand growth in competitive industries.",
+    "skills": [
+        {
+            "specialized skill": "Brand Strategy, Digital Marketing, Demand Generation, Customer Acquisition, Influencer & Partnership Marketing",
+            "common skill": ""
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Chief Marketing Officer",
+            "company": "BrandBoost",
+            "start_date": "2018",
+            "end_date": "Present",
+            "description": "Launched viral campaigns that increased brand engagement by 300%. Optimized customer acquisition, reducing cost per lead by 40%. Scaled marketing team from 10 to 50 professionals."
+        },
+        {
+            "job_title": "VP of Marketing",
+            "company": "DigitalX",
+            "start_date": "2011",
+            "end_date": "2018",
+            "description": "Led rebranding efforts, increasing market share by 20%. Established influencer marketing partnerships, driving $10M in new revenue."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Marketing",
+            "institution": "Kellogg School of Management",
+            "start_year": "",
+            "end_year": ""
+        },
+        {
+            "degree": "B.A. in Communications",
+            "institution": "UCLA",
+            "start_year": "",
+            "end_year": ""
+        }
+    ],
+    "enrichment parameters": [
+        {
+            "Employment Pattern & Progression": "Progressive career growth from VP of Marketing to Chief Marketing Officer",
+            "Company Type & Sector": "Worked in digital marketing sector, companies focused on brand strategy and customer acquisition",
+            "Education Quality & Ranking": "Graduated from top-tier institutions, Kellogg School of Management and UCLA",
+            "Skill Demand & Market Relevance": "Highly relevant skills in current market, including digital marketing, brand strategy, and customer acquisition",
+            "Leadership Experience": "Led teams and strategic initiatives at BrandBoost and DigitalX",
+            "Budget & Project Management": "Managed large-scale projects, including rebranding efforts and viral campaigns",
+            "International Experience & Mobility": "Not specified",
+            "Soft Skills from Sales Calls": "Not specified",
+            "Personality & Behavioral Traits": {
+                "Openness": "High",
+                "Conscientiousness": "High",
+                "Extraversion": "High",
+                "Agreeableness": "Moderate",
+                "Neuroticism": "Low"
+            },
+            "Future Career Goals (Sales-Inferred)": "Potential interest in higher executive roles or entrepreneurship in marketing sector",
+            "Salary Expectations (Sales-Inferred)": "High, considering the seniority of roles and achievements",
+            "JD Enrichment with Implied Preferences": "Roles that involve strategic decision making, team leadership, and opportunities to drive brand growth",
+            "Cultural Fit Indicators": "Prefers a dynamic and competitive work environment, values innovation and growth"
+        }
+    ]
+}

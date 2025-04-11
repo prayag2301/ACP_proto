@@ -1,0 +1,61 @@
+{
+    "name": "Michael Johnson",
+    "email": "michaeljohnson@email.com",
+    "phone": "+1-456-789-0123",
+    "country": "",
+    "city": "",
+    "summary": "Strategic operations executive with 17+ years of experience in supply chain management, process optimization, and organizational growth. Passionate about driving efficiency and scalability.",
+    "skills": [
+        {
+            "specialized skill": "Supply Chain Management, Process Optimization, Agile Operations, Team & Workforce Scaling, International Expansion",
+            "common skill": ""
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Chief Operating Officer",
+            "company": "ScaleUp Inc.",
+            "start_date": "2020",
+            "end_date": "Present",
+            "description": "Reduced supply chain costs by 25% through process automation. Implemented agile operations, reducing product delivery time by 40%. Scaled workforce from 100 to 500 employees, ensuring seamless growth."
+        },
+        {
+            "job_title": "VP of Operations",
+            "company": "GrowthTech",
+            "start_date": "2013",
+            "end_date": "2020",
+            "description": "Developed data-driven KPIs, improving operational efficiency by 30%. Led international expansion into 5 new markets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Operations Management",
+            "institution": "Wharton School",
+            "start_year": "",
+            "end_year": ""
+        },
+        {
+            "degree": "B.S. in Industrial Engineering",
+            "institution": "Georgia Tech",
+            "start_year": "",
+            "end_year": ""
+        }
+    ],
+    "enrichment parameters": [
+        {
+            "Employment Pattern & Progression": "Progressed from VP of Operations to Chief Operating Officer, demonstrating career growth and advancement.",
+            "Company Type & Sector": "Worked in tech sector, specifically in companies focused on growth and scaling.",
+            "Education Quality & Ranking": "Graduated from top-tier institutions, Wharton School and Georgia Tech, indicating high-quality education.",
+            "Skill Demand & Market Relevance": "Skills in supply chain management, process optimization, and agile operations are highly relevant in today's market.",
+            "Leadership Experience": "Held leadership roles at ScaleUp Inc. and GrowthTech, managing teams and scaling operations.",
+            "Budget & Project Management": "Managed supply chain costs and implemented process automation projects, indicating strong budget and project management skills.",
+            "International Experience & Mobility": "Led international expansion at GrowthTech, demonstrating international experience.",
+            "Soft Skills from Sales Calls": "Not available from provided CV data.",
+            "Personality & Behavioral Traits": "Demonstrates high conscientiousness and openness, moderate extraversion, and low neuroticism.",
+            "Future Career Goals (Sales-Inferred)": "Likely interested in roles that involve strategic operations and organizational growth.",
+            "Salary Expectations (Sales-Inferred)": "Given the seniority of roles and experience, likely to have high salary expectations.",
+            "JD Enrichment with Implied Preferences": "Prefers roles that involve strategic decision-making, process optimization, and team management.",
+            "Cultural Fit Indicators": "Likely to fit well in a culture that values efficiency, growth, and innovation."
+        }
+    ]
+}

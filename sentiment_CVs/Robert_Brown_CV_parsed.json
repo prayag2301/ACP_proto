@@ -1,0 +1,67 @@
+{
+    "name": "Robert Brown",
+    "email": "robertbrown@email.com",
+    "phone": "+1-567-890-1234",
+    "country": "",
+    "city": "",
+    "summary": "Dynamic sales leader with 19+ years of experience in revenue growth, business development, and go-to-market strategies. Expertise in scaling startups and closing multi-million-dollar deals.",
+    "skills": [
+        {
+            "specialized skill": "Revenue Growth & Strategy, Business Development, Enterprise Sales, Go-to-Market Strategy",
+            "common skill": "Sales Leadership & Team Building"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Chief Revenue Officer",
+            "company": "GrowthMax",
+            "start_date": "2019",
+            "end_date": "Present",
+            "description": "Increased annual revenue from $20M to $100M within 3 years. Built and led a high-performance sales team, achieving 150% quota attainment. Expanded global partnerships, adding $50M in pipeline value."
+        },
+        {
+            "job_title": "VP of Sales",
+            "company": "EnterpriseX",
+            "start_date": "2012",
+            "end_date": "2019",
+            "description": "Developed and executed sales strategies that grew revenue by 300%. Established key enterprise accounts, closing deals worth over $25M."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Strategy",
+            "institution": "Columbia Business School",
+            "start_year": "",
+            "end_year": ""
+        },
+        {
+            "degree": "B.S. in Economics",
+            "institution": "University of Chicago",
+            "start_year": "",
+            "end_year": ""
+        }
+    ],
+    "enrichment parameters": [
+        {
+            "Employment Pattern & Progression": "Progressive career growth from VP of Sales to Chief Revenue Officer, demonstrating increasing responsibility and leadership.",
+            "Company Type & Sector": "Experience in high-growth startups and enterprise companies, primarily in the tech sector.",
+            "Education Quality & Ranking": "Graduated from top-tier institutions, Columbia Business School (MBA) and University of Chicago (B.S. in Economics).",
+            "Skill Demand & Market Relevance": "Highly relevant skills in revenue growth, business development, and enterprise sales, which are in high demand in today's market.",
+            "Leadership Experience": "Proven leadership experience in building and leading high-performance sales teams, and driving significant revenue growth.",
+            "Budget & Project Management": "Managed multi-million dollar deals and significantly increased annual revenue, demonstrating strong budget and project management skills.",
+            "International Experience & Mobility": "Expanded global partnerships, indicating international experience and mobility.",
+            "Soft Skills from Sales Calls": "Strong negotiation, communication, and relationship-building skills inferred from successful sales and business development roles.",
+            "Personality & Behavioral Traits": {
+                "Openness": "High",
+                "Conscientiousness": "High",
+                "Extraversion": "High",
+                "Agreeableness": "Moderate",
+                "Neuroticism": "Low"
+            },
+            "Future Career Goals (Sales-Inferred)": "Potential aspirations to continue in high-level leadership roles, possibly as CEO or founder of a startup.",
+            "Salary Expectations (Sales-Inferred)": "Given the significant revenue growth and deal sizes managed, likely to have high salary expectations.",
+            "JD Enrichment with Implied Preferences": "Prefers roles with leadership responsibilities, opportunities for strategic decision-making, and potential for significant impact on revenue growth.",
+            "Cultural Fit Indicators": "Likely to fit well in a fast-paced, high-growth environment with a strong sales culture."
+        }
+    ]
+}
