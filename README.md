@@ -34,4 +34,14 @@ contains all sample JDs parsed through openAI api (GPT-4) and stored as json
 
 contains test results for enrichment parameters using openAI(GPT-4) on gpt parsed JDs stored as json
 
+## flagging_output
+
+contains key information extracted for Daniel Carter's CV and CLO JD:
+1. overview of candidate
+2. potential missing info from `enriched CV`
+3. potential missing info from `enriched CV`, given an `enriched JD`
+   
+## questionnaire
+
+contains a questionnaire for the sales team based on `flagging`, `enriched CV` and `enriched JD`
 
