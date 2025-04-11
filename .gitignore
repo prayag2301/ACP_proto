@@ -13,11 +13,14 @@ CV_JD_Parsing_Template.xlsx
 CV_JD_Parsing_with examples.xlsx 
 CV_Parsing_StructureCV.csv 
 CV_Parsing_StructureJD.csv 
-cv_sample.jsonl cv.html 
-cv.json Data Requirements.pdf 
+cv_sample.jsonl 
+cv.html 
+cv.json 
+Data Requirements.pdf 
 JD_Parsing_StructureJD.csv 
 JD_Parsing_StructureCV.csv 
 opportunities_sample.csv 
 opportunities_sample.jsonl 
-Resume.csv run_llama.py 
+Resume.csv 
+run_llama.py 
 training_data.csv
