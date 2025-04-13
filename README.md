@@ -1,6 +1,5 @@
 ## Prototype:
-https://sturdy-palm-tree-rwqrg5q7wq5hx7r7-8501.app.github.dev
-
+https://projectesmt.streamlit.app
 
 * All relevant scripts :
     1. The entire workflow can be found in finalWorkflow.ipynb
