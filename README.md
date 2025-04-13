@@ -4,6 +4,7 @@ https://projectesmt.streamlit.app
 * All relevant scripts :
     1. The entire workflow can be found in finalWorkflow.ipynb
     2. the unit tests for CVs, JD, flagging and questionnaire can be found in step_2.ipynb
+    3. Feature engineering scripts contain benchmarks for enrichment paramters and tests web search functionality
     
 * Create a .env file in the root folder to include openAI_api_key and API_KEY(Deepseek)
 
